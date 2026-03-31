@@ -1,0 +1,1831 @@
+data,produto,categoria,preco,custo,quantidade,faturamento,custo_total,lucro
+2024-01-01,Trufa,Premium,8,3,71,568,213,355
+2024-01-01,Barra 100g,Tradicional,12,5,34,408,170,238
+2024-01-01,Caixa de Bombom,Presente,35,18,91,3185,1638,1547
+2024-01-01,Ovo de Páscoa,Sazonal,80,40,80,6400,3200,3200
+2024-01-01,Chocolate Amargo,Premium,15,7,40,600,280,320
+2024-01-02,Trufa,Premium,8,3,94,752,282,470
+2024-01-02,Barra 100g,Tradicional,12,5,94,1128,470,658
+2024-01-02,Caixa de Bombom,Presente,35,18,43,1505,774,731
+2024-01-02,Ovo de Páscoa,Sazonal,80,40,22,1760,880,880
+2024-01-02,Chocolate Amargo,Premium,15,7,41,615,287,328
+2024-01-03,Trufa,Premium,8,3,72,576,216,360
+2024-01-03,Barra 100g,Tradicional,12,5,21,252,105,147
+2024-01-03,Caixa de Bombom,Presente,35,18,49,1715,882,833
+2024-01-03,Ovo de Páscoa,Sazonal,80,40,57,4560,2280,2280
+2024-01-03,Chocolate Amargo,Premium,15,7,21,315,147,168
+2024-01-04,Trufa,Premium,8,3,83,664,249,415
+2024-01-04,Barra 100g,Tradicional,12,5,79,948,395,553
+2024-01-04,Caixa de Bombom,Presente,35,18,40,1400,720,680
+2024-01-04,Ovo de Páscoa,Sazonal,80,40,52,4160,2080,2080
+2024-01-04,Chocolate Amargo,Premium,15,7,95,1425,665,760
+2024-01-05,Trufa,Premium,8,3,77,616,231,385
+2024-01-05,Barra 100g,Tradicional,12,5,41,492,205,287
+2024-01-05,Caixa de Bombom,Presente,35,18,68,2380,1224,1156
+2024-01-05,Ovo de Páscoa,Sazonal,80,40,78,6240,3120,3120
+2024-01-05,Chocolate Amargo,Premium,15,7,61,915,427,488
+2024-01-06,Trufa,Premium,8,3,79,632,237,395
+2024-01-06,Barra 100g,Tradicional,12,5,99,1188,495,693
+2024-01-06,Caixa de Bombom,Presente,35,18,34,1190,612,578
+2024-01-06,Ovo de Páscoa,Sazonal,80,40,81,6480,3240,3240
+2024-01-06,Chocolate Amargo,Premium,15,7,81,1215,567,648
+2024-01-07,Trufa,Premium,8,3,66,528,198,330
+2024-01-07,Barra 100g,Tradicional,12,5,81,972,405,567
+2024-01-07,Caixa de Bombom,Presente,35,18,70,2450,1260,1190
+2024-01-07,Ovo de Páscoa,Sazonal,80,40,74,5920,2960,2960
+2024-01-07,Chocolate Amargo,Premium,15,7,83,1245,581,664
+2024-01-08,Trufa,Premium,8,3,22,176,66,110
+2024-01-08,Barra 100g,Tradicional,12,5,70,840,350,490
+2024-01-08,Caixa de Bombom,Presente,35,18,26,910,468,442
+2024-01-08,Ovo de Páscoa,Sazonal,80,40,40,3200,1600,1600
+2024-01-08,Chocolate Amargo,Premium,15,7,92,1380,644,736
+2024-01-09,Trufa,Premium,8,3,58,464,174,290
+2024-01-09,Barra 100g,Tradicional,12,5,37,444,185,259
+2024-01-09,Caixa de Bombom,Presente,35,18,23,805,414,391
+2024-01-09,Ovo de Páscoa,Sazonal,80,40,79,6320,3160,3160
+2024-01-09,Chocolate Amargo,Premium,15,7,33,495,231,264
+2024-01-10,Trufa,Premium,8,3,28,224,84,140
+2024-01-10,Barra 100g,Tradicional,12,5,72,864,360,504
+2024-01-10,Caixa de Bombom,Presente,35,18,21,735,378,357
+2024-01-10,Ovo de Páscoa,Sazonal,80,40,79,6320,3160,3160
+2024-01-10,Chocolate Amargo,Premium,15,7,90,1350,630,720
+2024-01-11,Trufa,Premium,8,3,63,504,189,315
+2024-01-11,Barra 100g,Tradicional,12,5,27,324,135,189
+2024-01-11,Caixa de Bombom,Presente,35,18,66,2310,1188,1122
+2024-01-11,Ovo de Páscoa,Sazonal,80,40,54,4320,2160,2160
+2024-01-11,Chocolate Amargo,Premium,15,7,97,1455,679,776
+2024-01-12,Trufa,Premium,8,3,55,440,165,275
+2024-01-12,Barra 100g,Tradicional,12,5,69,828,345,483
+2024-01-12,Caixa de Bombom,Presente,35,18,23,805,414,391
+2024-01-12,Ovo de Páscoa,Sazonal,80,40,21,1680,840,840
+2024-01-12,Chocolate Amargo,Premium,15,7,25,375,175,200
+2024-01-13,Trufa,Premium,8,3,73,584,219,365
+2024-01-13,Barra 100g,Tradicional,12,5,23,276,115,161
+2024-01-13,Caixa de Bombom,Presente,35,18,73,2555,1314,1241
+2024-01-13,Ovo de Páscoa,Sazonal,80,40,82,6560,3280,3280
+2024-01-13,Chocolate Amargo,Premium,15,7,37,555,259,296
+2024-01-14,Trufa,Premium,8,3,63,504,189,315
+2024-01-14,Barra 100g,Tradicional,12,5,53,636,265,371
+2024-01-14,Caixa de Bombom,Presente,35,18,93,3255,1674,1581
+2024-01-14,Ovo de Páscoa,Sazonal,80,40,81,6480,3240,3240
+2024-01-14,Chocolate Amargo,Premium,15,7,33,495,231,264
+2024-01-15,Trufa,Premium,8,3,67,536,201,335
+2024-01-15,Barra 100g,Tradicional,12,5,34,408,170,238
+2024-01-15,Caixa de Bombom,Presente,35,18,91,3185,1638,1547
+2024-01-15,Ovo de Páscoa,Sazonal,80,40,97,7760,3880,3880
+2024-01-15,Chocolate Amargo,Premium,15,7,81,1215,567,648
+2024-01-16,Trufa,Premium,8,3,59,472,177,295
+2024-01-16,Barra 100g,Tradicional,12,5,99,1188,495,693
+2024-01-16,Caixa de Bombom,Presente,35,18,72,2520,1296,1224
+2024-01-16,Ovo de Páscoa,Sazonal,80,40,43,3440,1720,1720
+2024-01-16,Chocolate Amargo,Premium,15,7,45,675,315,360
+2024-01-17,Trufa,Premium,8,3,79,632,237,395
+2024-01-17,Barra 100g,Tradicional,12,5,60,720,300,420
+2024-01-17,Caixa de Bombom,Presente,35,18,48,1680,864,816
+2024-01-17,Ovo de Páscoa,Sazonal,80,40,34,2720,1360,1360
+2024-01-17,Chocolate Amargo,Premium,15,7,64,960,448,512
+2024-01-18,Trufa,Premium,8,3,84,672,252,420
+2024-01-18,Barra 100g,Tradicional,12,5,90,1080,450,630
+2024-01-18,Caixa de Bombom,Presente,35,18,28,980,504,476
+2024-01-18,Ovo de Páscoa,Sazonal,80,40,20,1600,800,800
+2024-01-18,Chocolate Amargo,Premium,15,7,27,405,189,216
+2024-01-19,Trufa,Premium,8,3,82,656,246,410
+2024-01-19,Barra 100g,Tradicional,12,5,30,360,150,210
+2024-01-19,Caixa de Bombom,Presente,35,18,27,945,486,459
+2024-01-19,Ovo de Páscoa,Sazonal,80,40,54,4320,2160,2160
+2024-01-19,Chocolate Amargo,Premium,15,7,54,810,378,432
+2024-01-20,Trufa,Premium,8,3,52,416,156,260
+2024-01-20,Barra 100g,Tradicional,12,5,24,288,120,168
+2024-01-20,Caixa de Bombom,Presente,35,18,60,2100,1080,1020
+2024-01-20,Ovo de Páscoa,Sazonal,80,40,47,3760,1880,1880
+2024-01-20,Chocolate Amargo,Premium,15,7,26,390,182,208
+2024-01-21,Trufa,Premium,8,3,92,736,276,460
+2024-01-21,Barra 100g,Tradicional,12,5,91,1092,455,637
+2024-01-21,Caixa de Bombom,Presente,35,18,31,1085,558,527
+2024-01-21,Ovo de Páscoa,Sazonal,80,40,53,4240,2120,2120
+2024-01-21,Chocolate Amargo,Premium,15,7,52,780,364,416
+2024-01-22,Trufa,Premium,8,3,67,536,201,335
+2024-01-22,Barra 100g,Tradicional,12,5,42,504,210,294
+2024-01-22,Caixa de Bombom,Presente,35,18,81,2835,1458,1377
+2024-01-22,Ovo de Páscoa,Sazonal,80,40,56,4480,2240,2240
+2024-01-22,Chocolate Amargo,Premium,15,7,63,945,441,504
+2024-01-23,Trufa,Premium,8,3,54,432,162,270
+2024-01-23,Barra 100g,Tradicional,12,5,84,1008,420,588
+2024-01-23,Caixa de Bombom,Presente,35,18,66,2310,1188,1122
+2024-01-23,Ovo de Páscoa,Sazonal,80,40,97,7760,3880,3880
+2024-01-23,Chocolate Amargo,Premium,15,7,22,330,154,176
+2024-01-24,Trufa,Premium,8,3,20,160,60,100
+2024-01-24,Barra 100g,Tradicional,12,5,24,288,120,168
+2024-01-24,Caixa de Bombom,Presente,35,18,33,1155,594,561
+2024-01-24,Ovo de Páscoa,Sazonal,80,40,46,3680,1840,1840
+2024-01-24,Chocolate Amargo,Premium,15,7,28,420,196,224
+2024-01-25,Trufa,Premium,8,3,98,784,294,490
+2024-01-25,Barra 100g,Tradicional,12,5,34,408,170,238
+2024-01-25,Caixa de Bombom,Presente,35,18,61,2135,1098,1037
+2024-01-25,Ovo de Páscoa,Sazonal,80,40,96,7680,3840,3840
+2024-01-25,Chocolate Amargo,Premium,15,7,70,1050,490,560
+2024-01-26,Trufa,Premium,8,3,82,656,246,410
+2024-01-26,Barra 100g,Tradicional,12,5,71,852,355,497
+2024-01-26,Caixa de Bombom,Presente,35,18,23,805,414,391
+2024-01-26,Ovo de Páscoa,Sazonal,80,40,42,3360,1680,1680
+2024-01-26,Chocolate Amargo,Premium,15,7,34,510,238,272
+2024-01-27,Trufa,Premium,8,3,62,496,186,310
+2024-01-27,Barra 100g,Tradicional,12,5,48,576,240,336
+2024-01-27,Caixa de Bombom,Presente,35,18,55,1925,990,935
+2024-01-27,Ovo de Páscoa,Sazonal,80,40,32,2560,1280,1280
+2024-01-27,Chocolate Amargo,Premium,15,7,51,765,357,408
+2024-01-28,Trufa,Premium,8,3,90,720,270,450
+2024-01-28,Barra 100g,Tradicional,12,5,78,936,390,546
+2024-01-28,Caixa de Bombom,Presente,35,18,47,1645,846,799
+2024-01-28,Ovo de Páscoa,Sazonal,80,40,85,6800,3400,3400
+2024-01-28,Chocolate Amargo,Premium,15,7,61,915,427,488
+2024-01-29,Trufa,Premium,8,3,64,512,192,320
+2024-01-29,Barra 100g,Tradicional,12,5,81,972,405,567
+2024-01-29,Caixa de Bombom,Presente,35,18,76,2660,1368,1292
+2024-01-29,Ovo de Páscoa,Sazonal,80,40,25,2000,1000,1000
+2024-01-29,Chocolate Amargo,Premium,15,7,47,705,329,376
+2024-01-30,Trufa,Premium,8,3,47,376,141,235
+2024-01-30,Barra 100g,Tradicional,12,5,63,756,315,441
+2024-01-30,Caixa de Bombom,Presente,35,18,49,1715,882,833
+2024-01-30,Ovo de Páscoa,Sazonal,80,40,81,6480,3240,3240
+2024-01-30,Chocolate Amargo,Premium,15,7,94,1410,658,752
+2024-01-31,Trufa,Premium,8,3,81,648,243,405
+2024-01-31,Barra 100g,Tradicional,12,5,20,240,100,140
+2024-01-31,Caixa de Bombom,Presente,35,18,46,1610,828,782
+2024-01-31,Ovo de Páscoa,Sazonal,80,40,81,6480,3240,3240
+2024-01-31,Chocolate Amargo,Premium,15,7,96,1440,672,768
+2024-02-01,Trufa,Premium,8,3,22,176,66,110
+2024-02-01,Barra 100g,Tradicional,12,5,89,1068,445,623
+2024-02-01,Caixa de Bombom,Presente,35,18,91,3185,1638,1547
+2024-02-01,Ovo de Páscoa,Sazonal,80,40,46,3680,1840,1840
+2024-02-01,Chocolate Amargo,Premium,15,7,28,420,196,224
+2024-02-02,Trufa,Premium,8,3,81,648,243,405
+2024-02-02,Barra 100g,Tradicional,12,5,56,672,280,392
+2024-02-02,Caixa de Bombom,Presente,35,18,70,2450,1260,1190
+2024-02-02,Ovo de Páscoa,Sazonal,80,40,63,5040,2520,2520
+2024-02-02,Chocolate Amargo,Premium,15,7,43,645,301,344
+2024-02-03,Trufa,Premium,8,3,98,784,294,490
+2024-02-03,Barra 100g,Tradicional,12,5,78,936,390,546
+2024-02-03,Caixa de Bombom,Presente,35,18,51,1785,918,867
+2024-02-03,Ovo de Páscoa,Sazonal,80,40,71,5680,2840,2840
+2024-02-03,Chocolate Amargo,Premium,15,7,81,1215,567,648
+2024-02-04,Trufa,Premium,8,3,77,616,231,385
+2024-02-04,Barra 100g,Tradicional,12,5,71,852,355,497
+2024-02-04,Caixa de Bombom,Presente,35,18,31,1085,558,527
+2024-02-04,Ovo de Páscoa,Sazonal,80,40,58,4640,2320,2320
+2024-02-04,Chocolate Amargo,Premium,15,7,21,315,147,168
+2024-02-05,Trufa,Premium,8,3,22,176,66,110
+2024-02-05,Barra 100g,Tradicional,12,5,75,900,375,525
+2024-02-05,Caixa de Bombom,Presente,35,18,78,2730,1404,1326
+2024-02-05,Ovo de Páscoa,Sazonal,80,40,21,1680,840,840
+2024-02-05,Chocolate Amargo,Premium,15,7,21,315,147,168
+2024-02-06,Trufa,Premium,8,3,73,584,219,365
+2024-02-06,Barra 100g,Tradicional,12,5,20,240,100,140
+2024-02-06,Caixa de Bombom,Presente,35,18,38,1330,684,646
+2024-02-06,Ovo de Páscoa,Sazonal,80,40,21,1680,840,840
+2024-02-06,Chocolate Amargo,Premium,15,7,72,1080,504,576
+2024-02-07,Trufa,Premium,8,3,63,504,189,315
+2024-02-07,Barra 100g,Tradicional,12,5,51,612,255,357
+2024-02-07,Caixa de Bombom,Presente,35,18,89,3115,1602,1513
+2024-02-07,Ovo de Páscoa,Sazonal,80,40,51,4080,2040,2040
+2024-02-07,Chocolate Amargo,Premium,15,7,87,1305,609,696
+2024-02-08,Trufa,Premium,8,3,74,592,222,370
+2024-02-08,Barra 100g,Tradicional,12,5,94,1128,470,658
+2024-02-08,Caixa de Bombom,Presente,35,18,75,2625,1350,1275
+2024-02-08,Ovo de Páscoa,Sazonal,80,40,36,2880,1440,1440
+2024-02-08,Chocolate Amargo,Premium,15,7,57,855,399,456
+2024-02-09,Trufa,Premium,8,3,43,344,129,215
+2024-02-09,Barra 100g,Tradicional,12,5,88,1056,440,616
+2024-02-09,Caixa de Bombom,Presente,35,18,89,3115,1602,1513
+2024-02-09,Ovo de Páscoa,Sazonal,80,40,30,2400,1200,1200
+2024-02-09,Chocolate Amargo,Premium,15,7,35,525,245,280
+2024-02-10,Trufa,Premium,8,3,92,736,276,460
+2024-02-10,Barra 100g,Tradicional,12,5,78,936,390,546
+2024-02-10,Caixa de Bombom,Presente,35,18,89,3115,1602,1513
+2024-02-10,Ovo de Páscoa,Sazonal,80,40,99,7920,3960,3960
+2024-02-10,Chocolate Amargo,Premium,15,7,22,330,154,176
+2024-02-11,Trufa,Premium,8,3,39,312,117,195
+2024-02-11,Barra 100g,Tradicional,12,5,78,936,390,546
+2024-02-11,Caixa de Bombom,Presente,35,18,55,1925,990,935
+2024-02-11,Ovo de Páscoa,Sazonal,80,40,38,3040,1520,1520
+2024-02-11,Chocolate Amargo,Premium,15,7,86,1290,602,688
+2024-02-12,Trufa,Premium,8,3,38,304,114,190
+2024-02-12,Barra 100g,Tradicional,12,5,39,468,195,273
+2024-02-12,Caixa de Bombom,Presente,35,18,90,3150,1620,1530
+2024-02-12,Ovo de Páscoa,Sazonal,80,40,71,5680,2840,2840
+2024-02-12,Chocolate Amargo,Premium,15,7,52,780,364,416
+2024-02-13,Trufa,Premium,8,3,59,472,177,295
+2024-02-13,Barra 100g,Tradicional,12,5,58,696,290,406
+2024-02-13,Caixa de Bombom,Presente,35,18,20,700,360,340
+2024-02-13,Ovo de Páscoa,Sazonal,80,40,30,2400,1200,1200
+2024-02-13,Chocolate Amargo,Premium,15,7,76,1140,532,608
+2024-02-14,Trufa,Premium,8,3,69,552,207,345
+2024-02-14,Barra 100g,Tradicional,12,5,42,504,210,294
+2024-02-14,Caixa de Bombom,Presente,35,18,50,1750,900,850
+2024-02-14,Ovo de Páscoa,Sazonal,80,40,61,4880,2440,2440
+2024-02-14,Chocolate Amargo,Premium,15,7,26,390,182,208
+2024-02-15,Trufa,Premium,8,3,35,280,105,175
+2024-02-15,Barra 100g,Tradicional,12,5,79,948,395,553
+2024-02-15,Caixa de Bombom,Presente,35,18,21,735,378,357
+2024-02-15,Ovo de Páscoa,Sazonal,80,40,20,1600,800,800
+2024-02-15,Chocolate Amargo,Premium,15,7,67,1005,469,536
+2024-02-16,Trufa,Premium,8,3,31,248,93,155
+2024-02-16,Barra 100g,Tradicional,12,5,88,1056,440,616
+2024-02-16,Caixa de Bombom,Presente,35,18,56,1960,1008,952
+2024-02-16,Ovo de Páscoa,Sazonal,80,40,51,4080,2040,2040
+2024-02-16,Chocolate Amargo,Premium,15,7,28,420,196,224
+2024-02-17,Trufa,Premium,8,3,38,304,114,190
+2024-02-17,Barra 100g,Tradicional,12,5,67,804,335,469
+2024-02-17,Caixa de Bombom,Presente,35,18,99,3465,1782,1683
+2024-02-17,Ovo de Páscoa,Sazonal,80,40,22,1760,880,880
+2024-02-17,Chocolate Amargo,Premium,15,7,39,585,273,312
+2024-02-18,Trufa,Premium,8,3,43,344,129,215
+2024-02-18,Barra 100g,Tradicional,12,5,73,876,365,511
+2024-02-18,Caixa de Bombom,Presente,35,18,52,1820,936,884
+2024-02-18,Ovo de Páscoa,Sazonal,80,40,43,3440,1720,1720
+2024-02-18,Chocolate Amargo,Premium,15,7,94,1410,658,752
+2024-02-19,Trufa,Premium,8,3,91,728,273,455
+2024-02-19,Barra 100g,Tradicional,12,5,55,660,275,385
+2024-02-19,Caixa de Bombom,Presente,35,18,57,1995,1026,969
+2024-02-19,Ovo de Páscoa,Sazonal,80,40,44,3520,1760,1760
+2024-02-19,Chocolate Amargo,Premium,15,7,37,555,259,296
+2024-02-20,Trufa,Premium,8,3,85,680,255,425
+2024-02-20,Barra 100g,Tradicional,12,5,73,876,365,511
+2024-02-20,Caixa de Bombom,Presente,35,18,54,1890,972,918
+2024-02-20,Ovo de Páscoa,Sazonal,80,40,99,7920,3960,3960
+2024-02-20,Chocolate Amargo,Premium,15,7,80,1200,560,640
+2024-02-21,Trufa,Premium,8,3,60,480,180,300
+2024-02-21,Barra 100g,Tradicional,12,5,52,624,260,364
+2024-02-21,Caixa de Bombom,Presente,35,18,87,3045,1566,1479
+2024-02-21,Ovo de Páscoa,Sazonal,80,40,52,4160,2080,2080
+2024-02-21,Chocolate Amargo,Premium,15,7,33,495,231,264
+2024-02-22,Trufa,Premium,8,3,40,320,120,200
+2024-02-22,Barra 100g,Tradicional,12,5,67,804,335,469
+2024-02-22,Caixa de Bombom,Presente,35,18,39,1365,702,663
+2024-02-22,Ovo de Páscoa,Sazonal,80,40,27,2160,1080,1080
+2024-02-22,Chocolate Amargo,Premium,15,7,26,390,182,208
+2024-02-23,Trufa,Premium,8,3,86,688,258,430
+2024-02-23,Barra 100g,Tradicional,12,5,36,432,180,252
+2024-02-23,Caixa de Bombom,Presente,35,18,52,1820,936,884
+2024-02-23,Ovo de Páscoa,Sazonal,80,40,67,5360,2680,2680
+2024-02-23,Chocolate Amargo,Premium,15,7,95,1425,665,760
+2024-02-24,Trufa,Premium,8,3,78,624,234,390
+2024-02-24,Barra 100g,Tradicional,12,5,41,492,205,287
+2024-02-24,Caixa de Bombom,Presente,35,18,49,1715,882,833
+2024-02-24,Ovo de Páscoa,Sazonal,80,40,57,4560,2280,2280
+2024-02-24,Chocolate Amargo,Premium,15,7,70,1050,490,560
+2024-02-25,Trufa,Premium,8,3,73,584,219,365
+2024-02-25,Barra 100g,Tradicional,12,5,27,324,135,189
+2024-02-25,Caixa de Bombom,Presente,35,18,46,1610,828,782
+2024-02-25,Ovo de Páscoa,Sazonal,80,40,46,3680,1840,1840
+2024-02-25,Chocolate Amargo,Premium,15,7,40,600,280,320
+2024-02-26,Trufa,Premium,8,3,49,392,147,245
+2024-02-26,Barra 100g,Tradicional,12,5,47,564,235,329
+2024-02-26,Caixa de Bombom,Presente,35,18,83,2905,1494,1411
+2024-02-26,Ovo de Páscoa,Sazonal,80,40,88,7040,3520,3520
+2024-02-26,Chocolate Amargo,Premium,15,7,80,1200,560,640
+2024-02-27,Trufa,Premium,8,3,67,536,201,335
+2024-02-27,Barra 100g,Tradicional,12,5,38,456,190,266
+2024-02-27,Caixa de Bombom,Presente,35,18,23,805,414,391
+2024-02-27,Ovo de Páscoa,Sazonal,80,40,54,4320,2160,2160
+2024-02-27,Chocolate Amargo,Premium,15,7,83,1245,581,664
+2024-02-28,Trufa,Premium,8,3,68,544,204,340
+2024-02-28,Barra 100g,Tradicional,12,5,36,432,180,252
+2024-02-28,Caixa de Bombom,Presente,35,18,63,2205,1134,1071
+2024-02-28,Ovo de Páscoa,Sazonal,80,40,49,3920,1960,1960
+2024-02-28,Chocolate Amargo,Premium,15,7,65,975,455,520
+2024-02-29,Trufa,Premium,8,3,25,200,75,125
+2024-02-29,Barra 100g,Tradicional,12,5,56,672,280,392
+2024-02-29,Caixa de Bombom,Presente,35,18,43,1505,774,731
+2024-02-29,Ovo de Páscoa,Sazonal,80,40,65,5200,2600,2600
+2024-02-29,Chocolate Amargo,Premium,15,7,72,1080,504,576
+2024-03-01,Trufa,Premium,8,3,79,632,237,395
+2024-03-01,Barra 100g,Tradicional,12,5,82,984,410,574
+2024-03-01,Caixa de Bombom,Presente,35,18,51,1785,918,867
+2024-03-01,Ovo de Páscoa,Sazonal,80,40,52,4160,2080,2080
+2024-03-01,Chocolate Amargo,Premium,15,7,86,1290,602,688
+2024-03-02,Trufa,Premium,8,3,37,296,111,185
+2024-03-02,Barra 100g,Tradicional,12,5,44,528,220,308
+2024-03-02,Caixa de Bombom,Presente,35,18,73,2555,1314,1241
+2024-03-02,Ovo de Páscoa,Sazonal,80,40,77,6160,3080,3080
+2024-03-02,Chocolate Amargo,Premium,15,7,86,1290,602,688
+2024-03-03,Trufa,Premium,8,3,65,520,195,325
+2024-03-03,Barra 100g,Tradicional,12,5,43,516,215,301
+2024-03-03,Caixa de Bombom,Presente,35,18,51,1785,918,867
+2024-03-03,Ovo de Páscoa,Sazonal,80,40,66,5280,2640,2640
+2024-03-03,Chocolate Amargo,Premium,15,7,42,630,294,336
+2024-03-04,Trufa,Premium,8,3,85,680,255,425
+2024-03-04,Barra 100g,Tradicional,12,5,46,552,230,322
+2024-03-04,Caixa de Bombom,Presente,35,18,21,735,378,357
+2024-03-04,Ovo de Páscoa,Sazonal,80,40,36,2880,1440,1440
+2024-03-04,Chocolate Amargo,Premium,15,7,52,780,364,416
+2024-03-05,Trufa,Premium,8,3,28,224,84,140
+2024-03-05,Barra 100g,Tradicional,12,5,62,744,310,434
+2024-03-05,Caixa de Bombom,Presente,35,18,67,2345,1206,1139
+2024-03-05,Ovo de Páscoa,Sazonal,80,40,58,4640,2320,2320
+2024-03-05,Chocolate Amargo,Premium,15,7,61,915,427,488
+2024-03-06,Trufa,Premium,8,3,45,360,135,225
+2024-03-06,Barra 100g,Tradicional,12,5,69,828,345,483
+2024-03-06,Caixa de Bombom,Presente,35,18,44,1540,792,748
+2024-03-06,Ovo de Páscoa,Sazonal,80,40,43,3440,1720,1720
+2024-03-06,Chocolate Amargo,Premium,15,7,32,480,224,256
+2024-03-07,Trufa,Premium,8,3,79,632,237,395
+2024-03-07,Barra 100g,Tradicional,12,5,26,312,130,182
+2024-03-07,Caixa de Bombom,Presente,35,18,76,2660,1368,1292
+2024-03-07,Ovo de Páscoa,Sazonal,80,40,55,4400,2200,2200
+2024-03-07,Chocolate Amargo,Premium,15,7,64,960,448,512
+2024-03-08,Trufa,Premium,8,3,39,312,117,195
+2024-03-08,Barra 100g,Tradicional,12,5,84,1008,420,588
+2024-03-08,Caixa de Bombom,Presente,35,18,27,945,486,459
+2024-03-08,Ovo de Páscoa,Sazonal,80,40,35,2800,1400,1400
+2024-03-08,Chocolate Amargo,Premium,15,7,33,495,231,264
+2024-03-09,Trufa,Premium,8,3,95,760,285,475
+2024-03-09,Barra 100g,Tradicional,12,5,34,408,170,238
+2024-03-09,Caixa de Bombom,Presente,35,18,85,2975,1530,1445
+2024-03-09,Ovo de Páscoa,Sazonal,80,40,51,4080,2040,2040
+2024-03-09,Chocolate Amargo,Premium,15,7,82,1230,574,656
+2024-03-10,Trufa,Premium,8,3,70,560,210,350
+2024-03-10,Barra 100g,Tradicional,12,5,44,528,220,308
+2024-03-10,Caixa de Bombom,Presente,35,18,77,2695,1386,1309
+2024-03-10,Ovo de Páscoa,Sazonal,80,40,82,6560,3280,3280
+2024-03-10,Chocolate Amargo,Premium,15,7,81,1215,567,648
+2024-03-11,Trufa,Premium,8,3,41,328,123,205
+2024-03-11,Barra 100g,Tradicional,12,5,77,924,385,539
+2024-03-11,Caixa de Bombom,Presente,35,18,77,2695,1386,1309
+2024-03-11,Ovo de Páscoa,Sazonal,80,40,68,5440,2720,2720
+2024-03-11,Chocolate Amargo,Premium,15,7,71,1065,497,568
+2024-03-12,Trufa,Premium,8,3,61,488,183,305
+2024-03-12,Barra 100g,Tradicional,12,5,89,1068,445,623
+2024-03-12,Caixa de Bombom,Presente,35,18,34,1190,612,578
+2024-03-12,Ovo de Páscoa,Sazonal,80,40,73,5840,2920,2920
+2024-03-12,Chocolate Amargo,Premium,15,7,79,1185,553,632
+2024-03-13,Trufa,Premium,8,3,27,216,81,135
+2024-03-13,Barra 100g,Tradicional,12,5,72,864,360,504
+2024-03-13,Caixa de Bombom,Presente,35,18,79,2765,1422,1343
+2024-03-13,Ovo de Páscoa,Sazonal,80,40,24,1920,960,960
+2024-03-13,Chocolate Amargo,Premium,15,7,87,1305,609,696
+2024-03-14,Trufa,Premium,8,3,25,200,75,125
+2024-03-14,Barra 100g,Tradicional,12,5,66,792,330,462
+2024-03-14,Caixa de Bombom,Presente,35,18,74,2590,1332,1258
+2024-03-14,Ovo de Páscoa,Sazonal,80,40,59,4720,2360,2360
+2024-03-14,Chocolate Amargo,Premium,15,7,71,1065,497,568
+2024-03-15,Trufa,Premium,8,3,35,280,105,175
+2024-03-15,Barra 100g,Tradicional,12,5,32,384,160,224
+2024-03-15,Caixa de Bombom,Presente,35,18,49,1715,882,833
+2024-03-15,Ovo de Páscoa,Sazonal,80,40,38,3040,1520,1520
+2024-03-15,Chocolate Amargo,Premium,15,7,36,540,252,288
+2024-03-16,Trufa,Premium,8,3,82,656,246,410
+2024-03-16,Barra 100g,Tradicional,12,5,38,456,190,266
+2024-03-16,Caixa de Bombom,Presente,35,18,77,2695,1386,1309
+2024-03-16,Ovo de Páscoa,Sazonal,80,40,74,5920,2960,2960
+2024-03-16,Chocolate Amargo,Premium,15,7,81,1215,567,648
+2024-03-17,Trufa,Premium,8,3,42,336,126,210
+2024-03-17,Barra 100g,Tradicional,12,5,28,336,140,196
+2024-03-17,Caixa de Bombom,Presente,35,18,31,1085,558,527
+2024-03-17,Ovo de Páscoa,Sazonal,80,40,20,1600,800,800
+2024-03-17,Chocolate Amargo,Premium,15,7,77,1155,539,616
+2024-03-18,Trufa,Premium,8,3,20,160,60,100
+2024-03-18,Barra 100g,Tradicional,12,5,53,636,265,371
+2024-03-18,Caixa de Bombom,Presente,35,18,67,2345,1206,1139
+2024-03-18,Ovo de Páscoa,Sazonal,80,40,20,1600,800,800
+2024-03-18,Chocolate Amargo,Premium,15,7,35,525,245,280
+2024-03-19,Trufa,Premium,8,3,80,640,240,400
+2024-03-19,Barra 100g,Tradicional,12,5,83,996,415,581
+2024-03-19,Caixa de Bombom,Presente,35,18,82,2870,1476,1394
+2024-03-19,Ovo de Páscoa,Sazonal,80,40,88,7040,3520,3520
+2024-03-19,Chocolate Amargo,Premium,15,7,41,615,287,328
+2024-03-20,Trufa,Premium,8,3,86,688,258,430
+2024-03-20,Barra 100g,Tradicional,12,5,95,1140,475,665
+2024-03-20,Caixa de Bombom,Presente,35,18,45,1575,810,765
+2024-03-20,Ovo de Páscoa,Sazonal,80,40,35,2800,1400,1400
+2024-03-20,Chocolate Amargo,Premium,15,7,70,1050,490,560
+2024-03-21,Trufa,Premium,8,3,76,608,228,380
+2024-03-21,Barra 100g,Tradicional,12,5,48,576,240,336
+2024-03-21,Caixa de Bombom,Presente,35,18,97,3395,1746,1649
+2024-03-21,Ovo de Páscoa,Sazonal,80,40,88,7040,3520,3520
+2024-03-21,Chocolate Amargo,Premium,15,7,66,990,462,528
+2024-03-22,Trufa,Premium,8,3,81,648,243,405
+2024-03-22,Barra 100g,Tradicional,12,5,88,1056,440,616
+2024-03-22,Caixa de Bombom,Presente,35,18,95,3325,1710,1615
+2024-03-22,Ovo de Páscoa,Sazonal,80,40,35,2800,1400,1400
+2024-03-22,Chocolate Amargo,Premium,15,7,67,1005,469,536
+2024-03-23,Trufa,Premium,8,3,58,464,174,290
+2024-03-23,Barra 100g,Tradicional,12,5,52,624,260,364
+2024-03-23,Caixa de Bombom,Presente,35,18,42,1470,756,714
+2024-03-23,Ovo de Páscoa,Sazonal,80,40,29,2320,1160,1160
+2024-03-23,Chocolate Amargo,Premium,15,7,88,1320,616,704
+2024-03-24,Trufa,Premium,8,3,53,424,159,265
+2024-03-24,Barra 100g,Tradicional,12,5,71,852,355,497
+2024-03-24,Caixa de Bombom,Presente,35,18,29,1015,522,493
+2024-03-24,Ovo de Páscoa,Sazonal,80,40,38,3040,1520,1520
+2024-03-24,Chocolate Amargo,Premium,15,7,77,1155,539,616
+2024-03-25,Trufa,Premium,8,3,20,160,60,100
+2024-03-25,Barra 100g,Tradicional,12,5,88,1056,440,616
+2024-03-25,Caixa de Bombom,Presente,35,18,23,805,414,391
+2024-03-25,Ovo de Páscoa,Sazonal,80,40,35,2800,1400,1400
+2024-03-25,Chocolate Amargo,Premium,15,7,43,645,301,344
+2024-03-26,Trufa,Premium,8,3,99,792,297,495
+2024-03-26,Barra 100g,Tradicional,12,5,21,252,105,147
+2024-03-26,Caixa de Bombom,Presente,35,18,51,1785,918,867
+2024-03-26,Ovo de Páscoa,Sazonal,80,40,43,3440,1720,1720
+2024-03-26,Chocolate Amargo,Premium,15,7,31,465,217,248
+2024-03-27,Trufa,Premium,8,3,69,552,207,345
+2024-03-27,Barra 100g,Tradicional,12,5,54,648,270,378
+2024-03-27,Caixa de Bombom,Presente,35,18,52,1820,936,884
+2024-03-27,Ovo de Páscoa,Sazonal,80,40,52,4160,2080,2080
+2024-03-27,Chocolate Amargo,Premium,15,7,80,1200,560,640
+2024-03-28,Trufa,Premium,8,3,70,560,210,350
+2024-03-28,Barra 100g,Tradicional,12,5,62,744,310,434
+2024-03-28,Caixa de Bombom,Presente,35,18,31,1085,558,527
+2024-03-28,Ovo de Páscoa,Sazonal,80,40,86,6880,3440,3440
+2024-03-28,Chocolate Amargo,Premium,15,7,84,1260,588,672
+2024-03-29,Trufa,Premium,8,3,52,416,156,260
+2024-03-29,Barra 100g,Tradicional,12,5,59,708,295,413
+2024-03-29,Caixa de Bombom,Presente,35,18,93,3255,1674,1581
+2024-03-29,Ovo de Páscoa,Sazonal,80,40,62,4960,2480,2480
+2024-03-29,Chocolate Amargo,Premium,15,7,63,945,441,504
+2024-03-30,Trufa,Premium,8,3,48,384,144,240
+2024-03-30,Barra 100g,Tradicional,12,5,32,384,160,224
+2024-03-30,Caixa de Bombom,Presente,35,18,31,1085,558,527
+2024-03-30,Ovo de Páscoa,Sazonal,80,40,65,5200,2600,2600
+2024-03-30,Chocolate Amargo,Premium,15,7,21,315,147,168
+2024-03-31,Trufa,Premium,8,3,54,432,162,270
+2024-03-31,Barra 100g,Tradicional,12,5,27,324,135,189
+2024-03-31,Caixa de Bombom,Presente,35,18,45,1575,810,765
+2024-03-31,Ovo de Páscoa,Sazonal,80,40,93,7440,3720,3720
+2024-03-31,Chocolate Amargo,Premium,15,7,53,795,371,424
+2024-04-01,Trufa,Premium,8,3,78,624,234,390
+2024-04-01,Barra 100g,Tradicional,12,5,261,3132,1305,1827
+2024-04-01,Caixa de Bombom,Presente,35,18,231,8085,4158,3927
+2024-04-01,Ovo de Páscoa,Sazonal,80,40,282,22560,11280,11280
+2024-04-01,Chocolate Amargo,Premium,15,7,144,2160,1008,1152
+2024-04-02,Trufa,Premium,8,3,165,1320,495,825
+2024-04-02,Barra 100g,Tradicional,12,5,120,1440,600,840
+2024-04-02,Caixa de Bombom,Presente,35,18,165,5775,2970,2805
+2024-04-02,Ovo de Páscoa,Sazonal,80,40,87,6960,3480,3480
+2024-04-02,Chocolate Amargo,Premium,15,7,276,4140,1932,2208
+2024-04-03,Trufa,Premium,8,3,129,1032,387,645
+2024-04-03,Barra 100g,Tradicional,12,5,249,2988,1245,1743
+2024-04-03,Caixa de Bombom,Presente,35,18,204,7140,3672,3468
+2024-04-03,Ovo de Páscoa,Sazonal,80,40,165,13200,6600,6600
+2024-04-03,Chocolate Amargo,Premium,15,7,129,1935,903,1032
+2024-04-04,Trufa,Premium,8,3,126,1008,378,630
+2024-04-04,Barra 100g,Tradicional,12,5,243,2916,1215,1701
+2024-04-04,Caixa de Bombom,Presente,35,18,168,5880,3024,2856
+2024-04-04,Ovo de Páscoa,Sazonal,80,40,93,7440,3720,3720
+2024-04-04,Chocolate Amargo,Premium,15,7,222,3330,1554,1776
+2024-04-05,Trufa,Premium,8,3,96,768,288,480
+2024-04-05,Barra 100g,Tradicional,12,5,126,1512,630,882
+2024-04-05,Caixa de Bombom,Presente,35,18,147,5145,2646,2499
+2024-04-05,Ovo de Páscoa,Sazonal,80,40,108,8640,4320,4320
+2024-04-05,Chocolate Amargo,Premium,15,7,243,3645,1701,1944
+2024-04-06,Trufa,Premium,8,3,96,768,288,480
+2024-04-06,Barra 100g,Tradicional,12,5,234,2808,1170,1638
+2024-04-06,Caixa de Bombom,Presente,35,18,114,3990,2052,1938
+2024-04-06,Ovo de Páscoa,Sazonal,80,40,204,16320,8160,8160
+2024-04-06,Chocolate Amargo,Premium,15,7,93,1395,651,744
+2024-04-07,Trufa,Premium,8,3,240,1920,720,1200
+2024-04-07,Barra 100g,Tradicional,12,5,114,1368,570,798
+2024-04-07,Caixa de Bombom,Presente,35,18,285,9975,5130,4845
+2024-04-07,Ovo de Páscoa,Sazonal,80,40,84,6720,3360,3360
+2024-04-07,Chocolate Amargo,Premium,15,7,270,4050,1890,2160
+2024-04-08,Trufa,Premium,8,3,141,1128,423,705
+2024-04-08,Barra 100g,Tradicional,12,5,291,3492,1455,2037
+2024-04-08,Caixa de Bombom,Presente,35,18,213,7455,3834,3621
+2024-04-08,Ovo de Páscoa,Sazonal,80,40,105,8400,4200,4200
+2024-04-08,Chocolate Amargo,Premium,15,7,264,3960,1848,2112
+2024-04-09,Trufa,Premium,8,3,93,744,279,465
+2024-04-09,Barra 100g,Tradicional,12,5,132,1584,660,924
+2024-04-09,Caixa de Bombom,Presente,35,18,213,7455,3834,3621
+2024-04-09,Ovo de Páscoa,Sazonal,80,40,216,17280,8640,8640
+2024-04-09,Chocolate Amargo,Premium,15,7,126,1890,882,1008
+2024-04-10,Trufa,Premium,8,3,105,840,315,525
+2024-04-10,Barra 100g,Tradicional,12,5,228,2736,1140,1596
+2024-04-10,Caixa de Bombom,Presente,35,18,174,6090,3132,2958
+2024-04-10,Ovo de Páscoa,Sazonal,80,40,216,17280,8640,8640
+2024-04-10,Chocolate Amargo,Premium,15,7,183,2745,1281,1464
+2024-04-11,Trufa,Premium,8,3,231,1848,693,1155
+2024-04-11,Barra 100g,Tradicional,12,5,174,2088,870,1218
+2024-04-11,Caixa de Bombom,Presente,35,18,99,3465,1782,1683
+2024-04-11,Ovo de Páscoa,Sazonal,80,40,72,5760,2880,2880
+2024-04-11,Chocolate Amargo,Premium,15,7,162,2430,1134,1296
+2024-04-12,Trufa,Premium,8,3,282,2256,846,1410
+2024-04-12,Barra 100g,Tradicional,12,5,111,1332,555,777
+2024-04-12,Caixa de Bombom,Presente,35,18,285,9975,5130,4845
+2024-04-12,Ovo de Páscoa,Sazonal,80,40,84,6720,3360,3360
+2024-04-12,Chocolate Amargo,Premium,15,7,279,4185,1953,2232
+2024-04-13,Trufa,Premium,8,3,231,1848,693,1155
+2024-04-13,Barra 100g,Tradicional,12,5,108,1296,540,756
+2024-04-13,Caixa de Bombom,Presente,35,18,78,2730,1404,1326
+2024-04-13,Ovo de Páscoa,Sazonal,80,40,195,15600,7800,7800
+2024-04-13,Chocolate Amargo,Premium,15,7,96,1440,672,768
+2024-04-14,Trufa,Premium,8,3,177,1416,531,885
+2024-04-14,Barra 100g,Tradicional,12,5,183,2196,915,1281
+2024-04-14,Caixa de Bombom,Presente,35,18,84,2940,1512,1428
+2024-04-14,Ovo de Páscoa,Sazonal,80,40,207,16560,8280,8280
+2024-04-14,Chocolate Amargo,Premium,15,7,138,2070,966,1104
+2024-04-15,Trufa,Premium,8,3,255,2040,765,1275
+2024-04-15,Barra 100g,Tradicional,12,5,72,864,360,504
+2024-04-15,Caixa de Bombom,Presente,35,18,144,5040,2592,2448
+2024-04-15,Ovo de Páscoa,Sazonal,80,40,168,13440,6720,6720
+2024-04-15,Chocolate Amargo,Premium,15,7,171,2565,1197,1368
+2024-04-16,Trufa,Premium,8,3,81,648,243,405
+2024-04-16,Barra 100g,Tradicional,12,5,252,3024,1260,1764
+2024-04-16,Caixa de Bombom,Presente,35,18,108,3780,1944,1836
+2024-04-16,Ovo de Páscoa,Sazonal,80,40,270,21600,10800,10800
+2024-04-16,Chocolate Amargo,Premium,15,7,192,2880,1344,1536
+2024-04-17,Trufa,Premium,8,3,69,552,207,345
+2024-04-17,Barra 100g,Tradicional,12,5,165,1980,825,1155
+2024-04-17,Caixa de Bombom,Presente,35,18,267,9345,4806,4539
+2024-04-17,Ovo de Páscoa,Sazonal,80,40,150,12000,6000,6000
+2024-04-17,Chocolate Amargo,Premium,15,7,114,1710,798,912
+2024-04-18,Trufa,Premium,8,3,240,1920,720,1200
+2024-04-18,Barra 100g,Tradicional,12,5,219,2628,1095,1533
+2024-04-18,Caixa de Bombom,Presente,35,18,174,6090,3132,2958
+2024-04-18,Ovo de Páscoa,Sazonal,80,40,279,22320,11160,11160
+2024-04-18,Chocolate Amargo,Premium,15,7,114,1710,798,912
+2024-04-19,Trufa,Premium,8,3,174,1392,522,870
+2024-04-19,Barra 100g,Tradicional,12,5,258,3096,1290,1806
+2024-04-19,Caixa de Bombom,Presente,35,18,192,6720,3456,3264
+2024-04-19,Ovo de Páscoa,Sazonal,80,40,96,7680,3840,3840
+2024-04-19,Chocolate Amargo,Premium,15,7,231,3465,1617,1848
+2024-04-20,Trufa,Premium,8,3,117,936,351,585
+2024-04-20,Barra 100g,Tradicional,12,5,273,3276,1365,1911
+2024-04-20,Caixa de Bombom,Presente,35,18,240,8400,4320,4080
+2024-04-20,Ovo de Páscoa,Sazonal,80,40,174,13920,6960,6960
+2024-04-20,Chocolate Amargo,Premium,15,7,60,900,420,480
+2024-04-21,Trufa,Premium,8,3,66,528,198,330
+2024-04-21,Barra 100g,Tradicional,12,5,288,3456,1440,2016
+2024-04-21,Caixa de Bombom,Presente,35,18,243,8505,4374,4131
+2024-04-21,Ovo de Páscoa,Sazonal,80,40,246,19680,9840,9840
+2024-04-21,Chocolate Amargo,Premium,15,7,132,1980,924,1056
+2024-04-22,Trufa,Premium,8,3,225,1800,675,1125
+2024-04-22,Barra 100g,Tradicional,12,5,156,1872,780,1092
+2024-04-22,Caixa de Bombom,Presente,35,18,171,5985,3078,2907
+2024-04-22,Ovo de Páscoa,Sazonal,80,40,75,6000,3000,3000
+2024-04-22,Chocolate Amargo,Premium,15,7,231,3465,1617,1848
+2024-04-23,Trufa,Premium,8,3,189,1512,567,945
+2024-04-23,Barra 100g,Tradicional,12,5,192,2304,960,1344
+2024-04-23,Caixa de Bombom,Presente,35,18,153,5355,2754,2601
+2024-04-23,Ovo de Páscoa,Sazonal,80,40,192,15360,7680,7680
+2024-04-23,Chocolate Amargo,Premium,15,7,240,3600,1680,1920
+2024-04-24,Trufa,Premium,8,3,198,1584,594,990
+2024-04-24,Barra 100g,Tradicional,12,5,120,1440,600,840
+2024-04-24,Caixa de Bombom,Presente,35,18,297,10395,5346,5049
+2024-04-24,Ovo de Páscoa,Sazonal,80,40,282,22560,11280,11280
+2024-04-24,Chocolate Amargo,Premium,15,7,165,2475,1155,1320
+2024-04-25,Trufa,Premium,8,3,114,912,342,570
+2024-04-25,Barra 100g,Tradicional,12,5,117,1404,585,819
+2024-04-25,Caixa de Bombom,Presente,35,18,228,7980,4104,3876
+2024-04-25,Ovo de Páscoa,Sazonal,80,40,111,8880,4440,4440
+2024-04-25,Chocolate Amargo,Premium,15,7,198,2970,1386,1584
+2024-04-26,Trufa,Premium,8,3,204,1632,612,1020
+2024-04-26,Barra 100g,Tradicional,12,5,99,1188,495,693
+2024-04-26,Caixa de Bombom,Presente,35,18,102,3570,1836,1734
+2024-04-26,Ovo de Páscoa,Sazonal,80,40,150,12000,6000,6000
+2024-04-26,Chocolate Amargo,Premium,15,7,60,900,420,480
+2024-04-27,Trufa,Premium,8,3,219,1752,657,1095
+2024-04-27,Barra 100g,Tradicional,12,5,66,792,330,462
+2024-04-27,Caixa de Bombom,Presente,35,18,105,3675,1890,1785
+2024-04-27,Ovo de Páscoa,Sazonal,80,40,228,18240,9120,9120
+2024-04-27,Chocolate Amargo,Premium,15,7,282,4230,1974,2256
+2024-04-28,Trufa,Premium,8,3,93,744,279,465
+2024-04-28,Barra 100g,Tradicional,12,5,279,3348,1395,1953
+2024-04-28,Caixa de Bombom,Presente,35,18,105,3675,1890,1785
+2024-04-28,Ovo de Páscoa,Sazonal,80,40,273,21840,10920,10920
+2024-04-28,Chocolate Amargo,Premium,15,7,285,4275,1995,2280
+2024-04-29,Trufa,Premium,8,3,129,1032,387,645
+2024-04-29,Barra 100g,Tradicional,12,5,141,1692,705,987
+2024-04-29,Caixa de Bombom,Presente,35,18,81,2835,1458,1377
+2024-04-29,Ovo de Páscoa,Sazonal,80,40,165,13200,6600,6600
+2024-04-29,Chocolate Amargo,Premium,15,7,81,1215,567,648
+2024-04-30,Trufa,Premium,8,3,231,1848,693,1155
+2024-04-30,Barra 100g,Tradicional,12,5,237,2844,1185,1659
+2024-04-30,Caixa de Bombom,Presente,35,18,207,7245,3726,3519
+2024-04-30,Ovo de Páscoa,Sazonal,80,40,141,11280,5640,5640
+2024-04-30,Chocolate Amargo,Premium,15,7,180,2700,1260,1440
+2024-05-01,Trufa,Premium,8,3,83,664,249,415
+2024-05-01,Barra 100g,Tradicional,12,5,46,552,230,322
+2024-05-01,Caixa de Bombom,Presente,35,18,82,2870,1476,1394
+2024-05-01,Ovo de Páscoa,Sazonal,80,40,36,2880,1440,1440
+2024-05-01,Chocolate Amargo,Premium,15,7,92,1380,644,736
+2024-05-02,Trufa,Premium,8,3,52,416,156,260
+2024-05-02,Barra 100g,Tradicional,12,5,96,1152,480,672
+2024-05-02,Caixa de Bombom,Presente,35,18,48,1680,864,816
+2024-05-02,Ovo de Páscoa,Sazonal,80,40,32,2560,1280,1280
+2024-05-02,Chocolate Amargo,Premium,15,7,65,975,455,520
+2024-05-03,Trufa,Premium,8,3,54,432,162,270
+2024-05-03,Barra 100g,Tradicional,12,5,25,300,125,175
+2024-05-03,Caixa de Bombom,Presente,35,18,88,3080,1584,1496
+2024-05-03,Ovo de Páscoa,Sazonal,80,40,66,5280,2640,2640
+2024-05-03,Chocolate Amargo,Premium,15,7,44,660,308,352
+2024-05-04,Trufa,Premium,8,3,85,680,255,425
+2024-05-04,Barra 100g,Tradicional,12,5,29,348,145,203
+2024-05-04,Caixa de Bombom,Presente,35,18,75,2625,1350,1275
+2024-05-04,Ovo de Páscoa,Sazonal,80,40,49,3920,1960,1960
+2024-05-04,Chocolate Amargo,Premium,15,7,24,360,168,192
+2024-05-05,Trufa,Premium,8,3,52,416,156,260
+2024-05-05,Barra 100g,Tradicional,12,5,84,1008,420,588
+2024-05-05,Caixa de Bombom,Presente,35,18,37,1295,666,629
+2024-05-05,Ovo de Páscoa,Sazonal,80,40,68,5440,2720,2720
+2024-05-05,Chocolate Amargo,Premium,15,7,30,450,210,240
+2024-05-06,Trufa,Premium,8,3,45,360,135,225
+2024-05-06,Barra 100g,Tradicional,12,5,82,984,410,574
+2024-05-06,Caixa de Bombom,Presente,35,18,78,2730,1404,1326
+2024-05-06,Ovo de Páscoa,Sazonal,80,40,46,3680,1840,1840
+2024-05-06,Chocolate Amargo,Premium,15,7,68,1020,476,544
+2024-05-07,Trufa,Premium,8,3,96,768,288,480
+2024-05-07,Barra 100g,Tradicional,12,5,52,624,260,364
+2024-05-07,Caixa de Bombom,Presente,35,18,20,700,360,340
+2024-05-07,Ovo de Páscoa,Sazonal,80,40,40,3200,1600,1600
+2024-05-07,Chocolate Amargo,Premium,15,7,74,1110,518,592
+2024-05-08,Trufa,Premium,8,3,25,200,75,125
+2024-05-08,Barra 100g,Tradicional,12,5,88,1056,440,616
+2024-05-08,Caixa de Bombom,Presente,35,18,24,840,432,408
+2024-05-08,Ovo de Páscoa,Sazonal,80,40,22,1760,880,880
+2024-05-08,Chocolate Amargo,Premium,15,7,72,1080,504,576
+2024-05-09,Trufa,Premium,8,3,42,336,126,210
+2024-05-09,Barra 100g,Tradicional,12,5,72,864,360,504
+2024-05-09,Caixa de Bombom,Presente,35,18,56,1960,1008,952
+2024-05-09,Ovo de Páscoa,Sazonal,80,40,93,7440,3720,3720
+2024-05-09,Chocolate Amargo,Premium,15,7,93,1395,651,744
+2024-05-10,Trufa,Premium,8,3,36,288,108,180
+2024-05-10,Barra 100g,Tradicional,12,5,97,1164,485,679
+2024-05-10,Caixa de Bombom,Presente,35,18,92,3220,1656,1564
+2024-05-10,Ovo de Páscoa,Sazonal,80,40,20,1600,800,800
+2024-05-10,Chocolate Amargo,Premium,15,7,70,1050,490,560
+2024-05-11,Trufa,Premium,8,3,64,512,192,320
+2024-05-11,Barra 100g,Tradicional,12,5,96,1152,480,672
+2024-05-11,Caixa de Bombom,Presente,35,18,23,805,414,391
+2024-05-11,Ovo de Páscoa,Sazonal,80,40,81,6480,3240,3240
+2024-05-11,Chocolate Amargo,Premium,15,7,84,1260,588,672
+2024-05-12,Trufa,Premium,8,3,51,408,153,255
+2024-05-12,Barra 100g,Tradicional,12,5,53,636,265,371
+2024-05-12,Caixa de Bombom,Presente,35,18,91,3185,1638,1547
+2024-05-12,Ovo de Páscoa,Sazonal,80,40,58,4640,2320,2320
+2024-05-12,Chocolate Amargo,Premium,15,7,45,675,315,360
+2024-05-13,Trufa,Premium,8,3,53,424,159,265
+2024-05-13,Barra 100g,Tradicional,12,5,73,876,365,511
+2024-05-13,Caixa de Bombom,Presente,35,18,22,770,396,374
+2024-05-13,Ovo de Páscoa,Sazonal,80,40,69,5520,2760,2760
+2024-05-13,Chocolate Amargo,Premium,15,7,31,465,217,248
+2024-05-14,Trufa,Premium,8,3,84,672,252,420
+2024-05-14,Barra 100g,Tradicional,12,5,73,876,365,511
+2024-05-14,Caixa de Bombom,Presente,35,18,24,840,432,408
+2024-05-14,Ovo de Páscoa,Sazonal,80,40,76,6080,3040,3040
+2024-05-14,Chocolate Amargo,Premium,15,7,36,540,252,288
+2024-05-15,Trufa,Premium,8,3,66,528,198,330
+2024-05-15,Barra 100g,Tradicional,12,5,42,504,210,294
+2024-05-15,Caixa de Bombom,Presente,35,18,98,3430,1764,1666
+2024-05-15,Ovo de Páscoa,Sazonal,80,40,33,2640,1320,1320
+2024-05-15,Chocolate Amargo,Premium,15,7,85,1275,595,680
+2024-05-16,Trufa,Premium,8,3,94,752,282,470
+2024-05-16,Barra 100g,Tradicional,12,5,70,840,350,490
+2024-05-16,Caixa de Bombom,Presente,35,18,57,1995,1026,969
+2024-05-16,Ovo de Páscoa,Sazonal,80,40,83,6640,3320,3320
+2024-05-16,Chocolate Amargo,Premium,15,7,57,855,399,456
+2024-05-17,Trufa,Premium,8,3,69,552,207,345
+2024-05-17,Barra 100g,Tradicional,12,5,49,588,245,343
+2024-05-17,Caixa de Bombom,Presente,35,18,98,3430,1764,1666
+2024-05-17,Ovo de Páscoa,Sazonal,80,40,70,5600,2800,2800
+2024-05-17,Chocolate Amargo,Premium,15,7,82,1230,574,656
+2024-05-18,Trufa,Premium,8,3,71,568,213,355
+2024-05-18,Barra 100g,Tradicional,12,5,57,684,285,399
+2024-05-18,Caixa de Bombom,Presente,35,18,98,3430,1764,1666
+2024-05-18,Ovo de Páscoa,Sazonal,80,40,49,3920,1960,1960
+2024-05-18,Chocolate Amargo,Premium,15,7,70,1050,490,560
+2024-05-19,Trufa,Premium,8,3,24,192,72,120
+2024-05-19,Barra 100g,Tradicional,12,5,48,576,240,336
+2024-05-19,Caixa de Bombom,Presente,35,18,23,805,414,391
+2024-05-19,Ovo de Páscoa,Sazonal,80,40,29,2320,1160,1160
+2024-05-19,Chocolate Amargo,Premium,15,7,75,1125,525,600
+2024-05-20,Trufa,Premium,8,3,36,288,108,180
+2024-05-20,Barra 100g,Tradicional,12,5,93,1116,465,651
+2024-05-20,Caixa de Bombom,Presente,35,18,36,1260,648,612
+2024-05-20,Ovo de Páscoa,Sazonal,80,40,88,7040,3520,3520
+2024-05-20,Chocolate Amargo,Premium,15,7,53,795,371,424
+2024-05-21,Trufa,Premium,8,3,25,200,75,125
+2024-05-21,Barra 100g,Tradicional,12,5,72,864,360,504
+2024-05-21,Caixa de Bombom,Presente,35,18,85,2975,1530,1445
+2024-05-21,Ovo de Páscoa,Sazonal,80,40,96,7680,3840,3840
+2024-05-21,Chocolate Amargo,Premium,15,7,62,930,434,496
+2024-05-22,Trufa,Premium,8,3,94,752,282,470
+2024-05-22,Barra 100g,Tradicional,12,5,42,504,210,294
+2024-05-22,Caixa de Bombom,Presente,35,18,74,2590,1332,1258
+2024-05-22,Ovo de Páscoa,Sazonal,80,40,99,7920,3960,3960
+2024-05-22,Chocolate Amargo,Premium,15,7,94,1410,658,752
+2024-05-23,Trufa,Premium,8,3,35,280,105,175
+2024-05-23,Barra 100g,Tradicional,12,5,27,324,135,189
+2024-05-23,Caixa de Bombom,Presente,35,18,23,805,414,391
+2024-05-23,Ovo de Páscoa,Sazonal,80,40,23,1840,920,920
+2024-05-23,Chocolate Amargo,Premium,15,7,75,1125,525,600
+2024-05-24,Trufa,Premium,8,3,44,352,132,220
+2024-05-24,Barra 100g,Tradicional,12,5,86,1032,430,602
+2024-05-24,Caixa de Bombom,Presente,35,18,86,3010,1548,1462
+2024-05-24,Ovo de Páscoa,Sazonal,80,40,46,3680,1840,1840
+2024-05-24,Chocolate Amargo,Premium,15,7,51,765,357,408
+2024-05-25,Trufa,Premium,8,3,69,552,207,345
+2024-05-25,Barra 100g,Tradicional,12,5,80,960,400,560
+2024-05-25,Caixa de Bombom,Presente,35,18,70,2450,1260,1190
+2024-05-25,Ovo de Páscoa,Sazonal,80,40,38,3040,1520,1520
+2024-05-25,Chocolate Amargo,Premium,15,7,40,600,280,320
+2024-05-26,Trufa,Premium,8,3,24,192,72,120
+2024-05-26,Barra 100g,Tradicional,12,5,61,732,305,427
+2024-05-26,Caixa de Bombom,Presente,35,18,80,2800,1440,1360
+2024-05-26,Ovo de Páscoa,Sazonal,80,40,41,3280,1640,1640
+2024-05-26,Chocolate Amargo,Premium,15,7,40,600,280,320
+2024-05-27,Trufa,Premium,8,3,89,712,267,445
+2024-05-27,Barra 100g,Tradicional,12,5,20,240,100,140
+2024-05-27,Caixa de Bombom,Presente,35,18,24,840,432,408
+2024-05-27,Ovo de Páscoa,Sazonal,80,40,31,2480,1240,1240
+2024-05-27,Chocolate Amargo,Premium,15,7,65,975,455,520
+2024-05-28,Trufa,Premium,8,3,53,424,159,265
+2024-05-28,Barra 100g,Tradicional,12,5,68,816,340,476
+2024-05-28,Caixa de Bombom,Presente,35,18,97,3395,1746,1649
+2024-05-28,Ovo de Páscoa,Sazonal,80,40,64,5120,2560,2560
+2024-05-28,Chocolate Amargo,Premium,15,7,46,690,322,368
+2024-05-29,Trufa,Premium,8,3,92,736,276,460
+2024-05-29,Barra 100g,Tradicional,12,5,45,540,225,315
+2024-05-29,Caixa de Bombom,Presente,35,18,66,2310,1188,1122
+2024-05-29,Ovo de Páscoa,Sazonal,80,40,75,6000,3000,3000
+2024-05-29,Chocolate Amargo,Premium,15,7,82,1230,574,656
+2024-05-30,Trufa,Premium,8,3,67,536,201,335
+2024-05-30,Barra 100g,Tradicional,12,5,80,960,400,560
+2024-05-30,Caixa de Bombom,Presente,35,18,45,1575,810,765
+2024-05-30,Ovo de Páscoa,Sazonal,80,40,55,4400,2200,2200
+2024-05-30,Chocolate Amargo,Premium,15,7,20,300,140,160
+2024-05-31,Trufa,Premium,8,3,27,216,81,135
+2024-05-31,Barra 100g,Tradicional,12,5,71,852,355,497
+2024-05-31,Caixa de Bombom,Presente,35,18,98,3430,1764,1666
+2024-05-31,Ovo de Páscoa,Sazonal,80,40,66,5280,2640,2640
+2024-05-31,Chocolate Amargo,Premium,15,7,75,1125,525,600
+2024-06-01,Trufa,Premium,8,3,33,264,99,165
+2024-06-01,Barra 100g,Tradicional,12,5,47,564,235,329
+2024-06-01,Caixa de Bombom,Presente,35,18,97,3395,1746,1649
+2024-06-01,Ovo de Páscoa,Sazonal,80,40,21,1680,840,840
+2024-06-01,Chocolate Amargo,Premium,15,7,45,675,315,360
+2024-06-02,Trufa,Premium,8,3,33,264,99,165
+2024-06-02,Barra 100g,Tradicional,12,5,78,936,390,546
+2024-06-02,Caixa de Bombom,Presente,35,18,75,2625,1350,1275
+2024-06-02,Ovo de Páscoa,Sazonal,80,40,26,2080,1040,1040
+2024-06-02,Chocolate Amargo,Premium,15,7,22,330,154,176
+2024-06-03,Trufa,Premium,8,3,42,336,126,210
+2024-06-03,Barra 100g,Tradicional,12,5,37,444,185,259
+2024-06-03,Caixa de Bombom,Presente,35,18,57,1995,1026,969
+2024-06-03,Ovo de Páscoa,Sazonal,80,40,34,2720,1360,1360
+2024-06-03,Chocolate Amargo,Premium,15,7,83,1245,581,664
+2024-06-04,Trufa,Premium,8,3,47,376,141,235
+2024-06-04,Barra 100g,Tradicional,12,5,93,1116,465,651
+2024-06-04,Caixa de Bombom,Presente,35,18,58,2030,1044,986
+2024-06-04,Ovo de Páscoa,Sazonal,80,40,76,6080,3040,3040
+2024-06-04,Chocolate Amargo,Premium,15,7,36,540,252,288
+2024-06-05,Trufa,Premium,8,3,63,504,189,315
+2024-06-05,Barra 100g,Tradicional,12,5,44,528,220,308
+2024-06-05,Caixa de Bombom,Presente,35,18,36,1260,648,612
+2024-06-05,Ovo de Páscoa,Sazonal,80,40,32,2560,1280,1280
+2024-06-05,Chocolate Amargo,Premium,15,7,44,660,308,352
+2024-06-06,Trufa,Premium,8,3,87,696,261,435
+2024-06-06,Barra 100g,Tradicional,12,5,29,348,145,203
+2024-06-06,Caixa de Bombom,Presente,35,18,86,3010,1548,1462
+2024-06-06,Ovo de Páscoa,Sazonal,80,40,37,2960,1480,1480
+2024-06-06,Chocolate Amargo,Premium,15,7,53,795,371,424
+2024-06-07,Trufa,Premium,8,3,27,216,81,135
+2024-06-07,Barra 100g,Tradicional,12,5,59,708,295,413
+2024-06-07,Caixa de Bombom,Presente,35,18,61,2135,1098,1037
+2024-06-07,Ovo de Páscoa,Sazonal,80,40,60,4800,2400,2400
+2024-06-07,Chocolate Amargo,Premium,15,7,25,375,175,200
+2024-06-08,Trufa,Premium,8,3,71,568,213,355
+2024-06-08,Barra 100g,Tradicional,12,5,45,540,225,315
+2024-06-08,Caixa de Bombom,Presente,35,18,83,2905,1494,1411
+2024-06-08,Ovo de Páscoa,Sazonal,80,40,78,6240,3120,3120
+2024-06-08,Chocolate Amargo,Premium,15,7,75,1125,525,600
+2024-06-09,Trufa,Premium,8,3,78,624,234,390
+2024-06-09,Barra 100g,Tradicional,12,5,89,1068,445,623
+2024-06-09,Caixa de Bombom,Presente,35,18,52,1820,936,884
+2024-06-09,Ovo de Páscoa,Sazonal,80,40,72,5760,2880,2880
+2024-06-09,Chocolate Amargo,Premium,15,7,41,615,287,328
+2024-06-10,Trufa,Premium,8,3,40,320,120,200
+2024-06-10,Barra 100g,Tradicional,12,5,89,1068,445,623
+2024-06-10,Caixa de Bombom,Presente,35,18,89,3115,1602,1513
+2024-06-10,Ovo de Páscoa,Sazonal,80,40,23,1840,920,920
+2024-06-10,Chocolate Amargo,Premium,15,7,94,1410,658,752
+2024-06-11,Trufa,Premium,8,3,81,648,243,405
+2024-06-11,Barra 100g,Tradicional,12,5,81,972,405,567
+2024-06-11,Caixa de Bombom,Presente,35,18,43,1505,774,731
+2024-06-11,Ovo de Páscoa,Sazonal,80,40,74,5920,2960,2960
+2024-06-11,Chocolate Amargo,Premium,15,7,28,420,196,224
+2024-06-12,Trufa,Premium,8,3,22,176,66,110
+2024-06-12,Barra 100g,Tradicional,12,5,50,600,250,350
+2024-06-12,Caixa de Bombom,Presente,35,18,59,2065,1062,1003
+2024-06-12,Ovo de Páscoa,Sazonal,80,40,55,4400,2200,2200
+2024-06-12,Chocolate Amargo,Premium,15,7,43,645,301,344
+2024-06-13,Trufa,Premium,8,3,25,200,75,125
+2024-06-13,Barra 100g,Tradicional,12,5,85,1020,425,595
+2024-06-13,Caixa de Bombom,Presente,35,18,94,3290,1692,1598
+2024-06-13,Ovo de Páscoa,Sazonal,80,40,23,1840,920,920
+2024-06-13,Chocolate Amargo,Premium,15,7,98,1470,686,784
+2024-06-14,Trufa,Premium,8,3,25,200,75,125
+2024-06-14,Barra 100g,Tradicional,12,5,70,840,350,490
+2024-06-14,Caixa de Bombom,Presente,35,18,81,2835,1458,1377
+2024-06-14,Ovo de Páscoa,Sazonal,80,40,76,6080,3040,3040
+2024-06-14,Chocolate Amargo,Premium,15,7,85,1275,595,680
+2024-06-15,Trufa,Premium,8,3,98,784,294,490
+2024-06-15,Barra 100g,Tradicional,12,5,94,1128,470,658
+2024-06-15,Caixa de Bombom,Presente,35,18,27,945,486,459
+2024-06-15,Ovo de Páscoa,Sazonal,80,40,45,3600,1800,1800
+2024-06-15,Chocolate Amargo,Premium,15,7,70,1050,490,560
+2024-06-16,Trufa,Premium,8,3,64,512,192,320
+2024-06-16,Barra 100g,Tradicional,12,5,63,756,315,441
+2024-06-16,Caixa de Bombom,Presente,35,18,24,840,432,408
+2024-06-16,Ovo de Páscoa,Sazonal,80,40,89,7120,3560,3560
+2024-06-16,Chocolate Amargo,Premium,15,7,45,675,315,360
+2024-06-17,Trufa,Premium,8,3,87,696,261,435
+2024-06-17,Barra 100g,Tradicional,12,5,38,456,190,266
+2024-06-17,Caixa de Bombom,Presente,35,18,39,1365,702,663
+2024-06-17,Ovo de Páscoa,Sazonal,80,40,31,2480,1240,1240
+2024-06-17,Chocolate Amargo,Premium,15,7,66,990,462,528
+2024-06-18,Trufa,Premium,8,3,20,160,60,100
+2024-06-18,Barra 100g,Tradicional,12,5,33,396,165,231
+2024-06-18,Caixa de Bombom,Presente,35,18,83,2905,1494,1411
+2024-06-18,Ovo de Páscoa,Sazonal,80,40,57,4560,2280,2280
+2024-06-18,Chocolate Amargo,Premium,15,7,56,840,392,448
+2024-06-19,Trufa,Premium,8,3,30,240,90,150
+2024-06-19,Barra 100g,Tradicional,12,5,96,1152,480,672
+2024-06-19,Caixa de Bombom,Presente,35,18,22,770,396,374
+2024-06-19,Ovo de Páscoa,Sazonal,80,40,52,4160,2080,2080
+2024-06-19,Chocolate Amargo,Premium,15,7,25,375,175,200
+2024-06-20,Trufa,Premium,8,3,69,552,207,345
+2024-06-20,Barra 100g,Tradicional,12,5,29,348,145,203
+2024-06-20,Caixa de Bombom,Presente,35,18,24,840,432,408
+2024-06-20,Ovo de Páscoa,Sazonal,80,40,42,3360,1680,1680
+2024-06-20,Chocolate Amargo,Premium,15,7,29,435,203,232
+2024-06-21,Trufa,Premium,8,3,63,504,189,315
+2024-06-21,Barra 100g,Tradicional,12,5,21,252,105,147
+2024-06-21,Caixa de Bombom,Presente,35,18,32,1120,576,544
+2024-06-21,Ovo de Páscoa,Sazonal,80,40,59,4720,2360,2360
+2024-06-21,Chocolate Amargo,Premium,15,7,21,315,147,168
+2024-06-22,Trufa,Premium,8,3,84,672,252,420
+2024-06-22,Barra 100g,Tradicional,12,5,82,984,410,574
+2024-06-22,Caixa de Bombom,Presente,35,18,92,3220,1656,1564
+2024-06-22,Ovo de Páscoa,Sazonal,80,40,36,2880,1440,1440
+2024-06-22,Chocolate Amargo,Premium,15,7,28,420,196,224
+2024-06-23,Trufa,Premium,8,3,94,752,282,470
+2024-06-23,Barra 100g,Tradicional,12,5,34,408,170,238
+2024-06-23,Caixa de Bombom,Presente,35,18,43,1505,774,731
+2024-06-23,Ovo de Páscoa,Sazonal,80,40,57,4560,2280,2280
+2024-06-23,Chocolate Amargo,Premium,15,7,54,810,378,432
+2024-06-24,Trufa,Premium,8,3,68,544,204,340
+2024-06-24,Barra 100g,Tradicional,12,5,88,1056,440,616
+2024-06-24,Caixa de Bombom,Presente,35,18,81,2835,1458,1377
+2024-06-24,Ovo de Páscoa,Sazonal,80,40,79,6320,3160,3160
+2024-06-24,Chocolate Amargo,Premium,15,7,69,1035,483,552
+2024-06-25,Trufa,Premium,8,3,97,776,291,485
+2024-06-25,Barra 100g,Tradicional,12,5,94,1128,470,658
+2024-06-25,Caixa de Bombom,Presente,35,18,28,980,504,476
+2024-06-25,Ovo de Páscoa,Sazonal,80,40,53,4240,2120,2120
+2024-06-25,Chocolate Amargo,Premium,15,7,95,1425,665,760
+2024-06-26,Trufa,Premium,8,3,54,432,162,270
+2024-06-26,Barra 100g,Tradicional,12,5,20,240,100,140
+2024-06-26,Caixa de Bombom,Presente,35,18,59,2065,1062,1003
+2024-06-26,Ovo de Páscoa,Sazonal,80,40,83,6640,3320,3320
+2024-06-26,Chocolate Amargo,Premium,15,7,41,615,287,328
+2024-06-27,Trufa,Premium,8,3,79,632,237,395
+2024-06-27,Barra 100g,Tradicional,12,5,83,996,415,581
+2024-06-27,Caixa de Bombom,Presente,35,18,91,3185,1638,1547
+2024-06-27,Ovo de Páscoa,Sazonal,80,40,30,2400,1200,1200
+2024-06-27,Chocolate Amargo,Premium,15,7,33,495,231,264
+2024-06-28,Trufa,Premium,8,3,79,632,237,395
+2024-06-28,Barra 100g,Tradicional,12,5,49,588,245,343
+2024-06-28,Caixa de Bombom,Presente,35,18,54,1890,972,918
+2024-06-28,Ovo de Páscoa,Sazonal,80,40,56,4480,2240,2240
+2024-06-28,Chocolate Amargo,Premium,15,7,24,360,168,192
+2024-06-29,Trufa,Premium,8,3,97,776,291,485
+2024-06-29,Barra 100g,Tradicional,12,5,45,540,225,315
+2024-06-29,Caixa de Bombom,Presente,35,18,81,2835,1458,1377
+2024-06-29,Ovo de Páscoa,Sazonal,80,40,23,1840,920,920
+2024-06-29,Chocolate Amargo,Premium,15,7,61,915,427,488
+2024-06-30,Trufa,Premium,8,3,37,296,111,185
+2024-06-30,Barra 100g,Tradicional,12,5,59,708,295,413
+2024-06-30,Caixa de Bombom,Presente,35,18,91,3185,1638,1547
+2024-06-30,Ovo de Páscoa,Sazonal,80,40,58,4640,2320,2320
+2024-06-30,Chocolate Amargo,Premium,15,7,33,495,231,264
+2024-07-01,Trufa,Premium,8,3,51,408,153,255
+2024-07-01,Barra 100g,Tradicional,12,5,70,840,350,490
+2024-07-01,Caixa de Bombom,Presente,35,18,57,1995,1026,969
+2024-07-01,Ovo de Páscoa,Sazonal,80,40,42,3360,1680,1680
+2024-07-01,Chocolate Amargo,Premium,15,7,82,1230,574,656
+2024-07-02,Trufa,Premium,8,3,34,272,102,170
+2024-07-02,Barra 100g,Tradicional,12,5,44,528,220,308
+2024-07-02,Caixa de Bombom,Presente,35,18,36,1260,648,612
+2024-07-02,Ovo de Páscoa,Sazonal,80,40,85,6800,3400,3400
+2024-07-02,Chocolate Amargo,Premium,15,7,97,1455,679,776
+2024-07-03,Trufa,Premium,8,3,72,576,216,360
+2024-07-03,Barra 100g,Tradicional,12,5,70,840,350,490
+2024-07-03,Caixa de Bombom,Presente,35,18,58,2030,1044,986
+2024-07-03,Ovo de Páscoa,Sazonal,80,40,70,5600,2800,2800
+2024-07-03,Chocolate Amargo,Premium,15,7,89,1335,623,712
+2024-07-04,Trufa,Premium,8,3,25,200,75,125
+2024-07-04,Barra 100g,Tradicional,12,5,86,1032,430,602
+2024-07-04,Caixa de Bombom,Presente,35,18,26,910,468,442
+2024-07-04,Ovo de Páscoa,Sazonal,80,40,70,5600,2800,2800
+2024-07-04,Chocolate Amargo,Premium,15,7,91,1365,637,728
+2024-07-05,Trufa,Premium,8,3,61,488,183,305
+2024-07-05,Barra 100g,Tradicional,12,5,83,996,415,581
+2024-07-05,Caixa de Bombom,Presente,35,18,34,1190,612,578
+2024-07-05,Ovo de Páscoa,Sazonal,80,40,48,3840,1920,1920
+2024-07-05,Chocolate Amargo,Premium,15,7,52,780,364,416
+2024-07-06,Trufa,Premium,8,3,46,368,138,230
+2024-07-06,Barra 100g,Tradicional,12,5,55,660,275,385
+2024-07-06,Caixa de Bombom,Presente,35,18,48,1680,864,816
+2024-07-06,Ovo de Páscoa,Sazonal,80,40,57,4560,2280,2280
+2024-07-06,Chocolate Amargo,Premium,15,7,76,1140,532,608
+2024-07-07,Trufa,Premium,8,3,46,368,138,230
+2024-07-07,Barra 100g,Tradicional,12,5,74,888,370,518
+2024-07-07,Caixa de Bombom,Presente,35,18,52,1820,936,884
+2024-07-07,Ovo de Páscoa,Sazonal,80,40,87,6960,3480,3480
+2024-07-07,Chocolate Amargo,Premium,15,7,85,1275,595,680
+2024-07-08,Trufa,Premium,8,3,29,232,87,145
+2024-07-08,Barra 100g,Tradicional,12,5,24,288,120,168
+2024-07-08,Caixa de Bombom,Presente,35,18,93,3255,1674,1581
+2024-07-08,Ovo de Páscoa,Sazonal,80,40,57,4560,2280,2280
+2024-07-08,Chocolate Amargo,Premium,15,7,32,480,224,256
+2024-07-09,Trufa,Premium,8,3,50,400,150,250
+2024-07-09,Barra 100g,Tradicional,12,5,66,792,330,462
+2024-07-09,Caixa de Bombom,Presente,35,18,71,2485,1278,1207
+2024-07-09,Ovo de Páscoa,Sazonal,80,40,75,6000,3000,3000
+2024-07-09,Chocolate Amargo,Premium,15,7,34,510,238,272
+2024-07-10,Trufa,Premium,8,3,48,384,144,240
+2024-07-10,Barra 100g,Tradicional,12,5,27,324,135,189
+2024-07-10,Caixa de Bombom,Presente,35,18,24,840,432,408
+2024-07-10,Ovo de Páscoa,Sazonal,80,40,48,3840,1920,1920
+2024-07-10,Chocolate Amargo,Premium,15,7,66,990,462,528
+2024-07-11,Trufa,Premium,8,3,87,696,261,435
+2024-07-11,Barra 100g,Tradicional,12,5,95,1140,475,665
+2024-07-11,Caixa de Bombom,Presente,35,18,64,2240,1152,1088
+2024-07-11,Ovo de Páscoa,Sazonal,80,40,21,1680,840,840
+2024-07-11,Chocolate Amargo,Premium,15,7,46,690,322,368
+2024-07-12,Trufa,Premium,8,3,55,440,165,275
+2024-07-12,Barra 100g,Tradicional,12,5,55,660,275,385
+2024-07-12,Caixa de Bombom,Presente,35,18,45,1575,810,765
+2024-07-12,Ovo de Páscoa,Sazonal,80,40,62,4960,2480,2480
+2024-07-12,Chocolate Amargo,Premium,15,7,46,690,322,368
+2024-07-13,Trufa,Premium,8,3,88,704,264,440
+2024-07-13,Barra 100g,Tradicional,12,5,39,468,195,273
+2024-07-13,Caixa de Bombom,Presente,35,18,30,1050,540,510
+2024-07-13,Ovo de Páscoa,Sazonal,80,40,93,7440,3720,3720
+2024-07-13,Chocolate Amargo,Premium,15,7,57,855,399,456
+2024-07-14,Trufa,Premium,8,3,25,200,75,125
+2024-07-14,Barra 100g,Tradicional,12,5,91,1092,455,637
+2024-07-14,Caixa de Bombom,Presente,35,18,42,1470,756,714
+2024-07-14,Ovo de Páscoa,Sazonal,80,40,66,5280,2640,2640
+2024-07-14,Chocolate Amargo,Premium,15,7,65,975,455,520
+2024-07-15,Trufa,Premium,8,3,31,248,93,155
+2024-07-15,Barra 100g,Tradicional,12,5,32,384,160,224
+2024-07-15,Caixa de Bombom,Presente,35,18,81,2835,1458,1377
+2024-07-15,Ovo de Páscoa,Sazonal,80,40,79,6320,3160,3160
+2024-07-15,Chocolate Amargo,Premium,15,7,62,930,434,496
+2024-07-16,Trufa,Premium,8,3,95,760,285,475
+2024-07-16,Barra 100g,Tradicional,12,5,87,1044,435,609
+2024-07-16,Caixa de Bombom,Presente,35,18,24,840,432,408
+2024-07-16,Ovo de Páscoa,Sazonal,80,40,56,4480,2240,2240
+2024-07-16,Chocolate Amargo,Premium,15,7,91,1365,637,728
+2024-07-17,Trufa,Premium,8,3,50,400,150,250
+2024-07-17,Barra 100g,Tradicional,12,5,28,336,140,196
+2024-07-17,Caixa de Bombom,Presente,35,18,70,2450,1260,1190
+2024-07-17,Ovo de Páscoa,Sazonal,80,40,48,3840,1920,1920
+2024-07-17,Chocolate Amargo,Premium,15,7,97,1455,679,776
+2024-07-18,Trufa,Premium,8,3,59,472,177,295
+2024-07-18,Barra 100g,Tradicional,12,5,60,720,300,420
+2024-07-18,Caixa de Bombom,Presente,35,18,30,1050,540,510
+2024-07-18,Ovo de Páscoa,Sazonal,80,40,42,3360,1680,1680
+2024-07-18,Chocolate Amargo,Premium,15,7,20,300,140,160
+2024-07-19,Trufa,Premium,8,3,65,520,195,325
+2024-07-19,Barra 100g,Tradicional,12,5,40,480,200,280
+2024-07-19,Caixa de Bombom,Presente,35,18,55,1925,990,935
+2024-07-19,Ovo de Páscoa,Sazonal,80,40,73,5840,2920,2920
+2024-07-19,Chocolate Amargo,Premium,15,7,76,1140,532,608
+2024-07-20,Trufa,Premium,8,3,20,160,60,100
+2024-07-20,Barra 100g,Tradicional,12,5,82,984,410,574
+2024-07-20,Caixa de Bombom,Presente,35,18,73,2555,1314,1241
+2024-07-20,Ovo de Páscoa,Sazonal,80,40,74,5920,2960,2960
+2024-07-20,Chocolate Amargo,Premium,15,7,59,885,413,472
+2024-07-21,Trufa,Premium,8,3,34,272,102,170
+2024-07-21,Barra 100g,Tradicional,12,5,40,480,200,280
+2024-07-21,Caixa de Bombom,Presente,35,18,66,2310,1188,1122
+2024-07-21,Ovo de Páscoa,Sazonal,80,40,92,7360,3680,3680
+2024-07-21,Chocolate Amargo,Premium,15,7,72,1080,504,576
+2024-07-22,Trufa,Premium,8,3,28,224,84,140
+2024-07-22,Barra 100g,Tradicional,12,5,93,1116,465,651
+2024-07-22,Caixa de Bombom,Presente,35,18,71,2485,1278,1207
+2024-07-22,Ovo de Páscoa,Sazonal,80,40,76,6080,3040,3040
+2024-07-22,Chocolate Amargo,Premium,15,7,45,675,315,360
+2024-07-23,Trufa,Premium,8,3,60,480,180,300
+2024-07-23,Barra 100g,Tradicional,12,5,54,648,270,378
+2024-07-23,Caixa de Bombom,Presente,35,18,82,2870,1476,1394
+2024-07-23,Ovo de Páscoa,Sazonal,80,40,44,3520,1760,1760
+2024-07-23,Chocolate Amargo,Premium,15,7,94,1410,658,752
+2024-07-24,Trufa,Premium,8,3,57,456,171,285
+2024-07-24,Barra 100g,Tradicional,12,5,21,252,105,147
+2024-07-24,Caixa de Bombom,Presente,35,18,26,910,468,442
+2024-07-24,Ovo de Páscoa,Sazonal,80,40,53,4240,2120,2120
+2024-07-24,Chocolate Amargo,Premium,15,7,36,540,252,288
+2024-07-25,Trufa,Premium,8,3,62,496,186,310
+2024-07-25,Barra 100g,Tradicional,12,5,78,936,390,546
+2024-07-25,Caixa de Bombom,Presente,35,18,70,2450,1260,1190
+2024-07-25,Ovo de Páscoa,Sazonal,80,40,73,5840,2920,2920
+2024-07-25,Chocolate Amargo,Premium,15,7,43,645,301,344
+2024-07-26,Trufa,Premium,8,3,44,352,132,220
+2024-07-26,Barra 100g,Tradicional,12,5,90,1080,450,630
+2024-07-26,Caixa de Bombom,Presente,35,18,71,2485,1278,1207
+2024-07-26,Ovo de Páscoa,Sazonal,80,40,89,7120,3560,3560
+2024-07-26,Chocolate Amargo,Premium,15,7,52,780,364,416
+2024-07-27,Trufa,Premium,8,3,68,544,204,340
+2024-07-27,Barra 100g,Tradicional,12,5,48,576,240,336
+2024-07-27,Caixa de Bombom,Presente,35,18,82,2870,1476,1394
+2024-07-27,Ovo de Páscoa,Sazonal,80,40,41,3280,1640,1640
+2024-07-27,Chocolate Amargo,Premium,15,7,45,675,315,360
+2024-07-28,Trufa,Premium,8,3,47,376,141,235
+2024-07-28,Barra 100g,Tradicional,12,5,68,816,340,476
+2024-07-28,Caixa de Bombom,Presente,35,18,90,3150,1620,1530
+2024-07-28,Ovo de Páscoa,Sazonal,80,40,68,5440,2720,2720
+2024-07-28,Chocolate Amargo,Premium,15,7,39,585,273,312
+2024-07-29,Trufa,Premium,8,3,82,656,246,410
+2024-07-29,Barra 100g,Tradicional,12,5,80,960,400,560
+2024-07-29,Caixa de Bombom,Presente,35,18,68,2380,1224,1156
+2024-07-29,Ovo de Páscoa,Sazonal,80,40,90,7200,3600,3600
+2024-07-29,Chocolate Amargo,Premium,15,7,20,300,140,160
+2024-07-30,Trufa,Premium,8,3,32,256,96,160
+2024-07-30,Barra 100g,Tradicional,12,5,70,840,350,490
+2024-07-30,Caixa de Bombom,Presente,35,18,75,2625,1350,1275
+2024-07-30,Ovo de Páscoa,Sazonal,80,40,81,6480,3240,3240
+2024-07-30,Chocolate Amargo,Premium,15,7,51,765,357,408
+2024-07-31,Trufa,Premium,8,3,49,392,147,245
+2024-07-31,Barra 100g,Tradicional,12,5,48,576,240,336
+2024-07-31,Caixa de Bombom,Presente,35,18,68,2380,1224,1156
+2024-07-31,Ovo de Páscoa,Sazonal,80,40,64,5120,2560,2560
+2024-07-31,Chocolate Amargo,Premium,15,7,49,735,343,392
+2024-08-01,Trufa,Premium,8,3,35,280,105,175
+2024-08-01,Barra 100g,Tradicional,12,5,59,708,295,413
+2024-08-01,Caixa de Bombom,Presente,35,18,38,1330,684,646
+2024-08-01,Ovo de Páscoa,Sazonal,80,40,37,2960,1480,1480
+2024-08-01,Chocolate Amargo,Premium,15,7,20,300,140,160
+2024-08-02,Trufa,Premium,8,3,97,776,291,485
+2024-08-02,Barra 100g,Tradicional,12,5,66,792,330,462
+2024-08-02,Caixa de Bombom,Presente,35,18,85,2975,1530,1445
+2024-08-02,Ovo de Páscoa,Sazonal,80,40,57,4560,2280,2280
+2024-08-02,Chocolate Amargo,Premium,15,7,70,1050,490,560
+2024-08-03,Trufa,Premium,8,3,82,656,246,410
+2024-08-03,Barra 100g,Tradicional,12,5,23,276,115,161
+2024-08-03,Caixa de Bombom,Presente,35,18,20,700,360,340
+2024-08-03,Ovo de Páscoa,Sazonal,80,40,27,2160,1080,1080
+2024-08-03,Chocolate Amargo,Premium,15,7,48,720,336,384
+2024-08-04,Trufa,Premium,8,3,74,592,222,370
+2024-08-04,Barra 100g,Tradicional,12,5,22,264,110,154
+2024-08-04,Caixa de Bombom,Presente,35,18,51,1785,918,867
+2024-08-04,Ovo de Páscoa,Sazonal,80,40,29,2320,1160,1160
+2024-08-04,Chocolate Amargo,Premium,15,7,93,1395,651,744
+2024-08-05,Trufa,Premium,8,3,53,424,159,265
+2024-08-05,Barra 100g,Tradicional,12,5,74,888,370,518
+2024-08-05,Caixa de Bombom,Presente,35,18,51,1785,918,867
+2024-08-05,Ovo de Páscoa,Sazonal,80,40,69,5520,2760,2760
+2024-08-05,Chocolate Amargo,Premium,15,7,26,390,182,208
+2024-08-06,Trufa,Premium,8,3,27,216,81,135
+2024-08-06,Barra 100g,Tradicional,12,5,84,1008,420,588
+2024-08-06,Caixa de Bombom,Presente,35,18,76,2660,1368,1292
+2024-08-06,Ovo de Páscoa,Sazonal,80,40,86,6880,3440,3440
+2024-08-06,Chocolate Amargo,Premium,15,7,78,1170,546,624
+2024-08-07,Trufa,Premium,8,3,91,728,273,455
+2024-08-07,Barra 100g,Tradicional,12,5,73,876,365,511
+2024-08-07,Caixa de Bombom,Presente,35,18,86,3010,1548,1462
+2024-08-07,Ovo de Páscoa,Sazonal,80,40,70,5600,2800,2800
+2024-08-07,Chocolate Amargo,Premium,15,7,27,405,189,216
+2024-08-08,Trufa,Premium,8,3,53,424,159,265
+2024-08-08,Barra 100g,Tradicional,12,5,54,648,270,378
+2024-08-08,Caixa de Bombom,Presente,35,18,97,3395,1746,1649
+2024-08-08,Ovo de Páscoa,Sazonal,80,40,51,4080,2040,2040
+2024-08-08,Chocolate Amargo,Premium,15,7,65,975,455,520
+2024-08-09,Trufa,Premium,8,3,35,280,105,175
+2024-08-09,Barra 100g,Tradicional,12,5,87,1044,435,609
+2024-08-09,Caixa de Bombom,Presente,35,18,56,1960,1008,952
+2024-08-09,Ovo de Páscoa,Sazonal,80,40,73,5840,2920,2920
+2024-08-09,Chocolate Amargo,Premium,15,7,33,495,231,264
+2024-08-10,Trufa,Premium,8,3,74,592,222,370
+2024-08-10,Barra 100g,Tradicional,12,5,67,804,335,469
+2024-08-10,Caixa de Bombom,Presente,35,18,26,910,468,442
+2024-08-10,Ovo de Páscoa,Sazonal,80,40,93,7440,3720,3720
+2024-08-10,Chocolate Amargo,Premium,15,7,26,390,182,208
+2024-08-11,Trufa,Premium,8,3,52,416,156,260
+2024-08-11,Barra 100g,Tradicional,12,5,42,504,210,294
+2024-08-11,Caixa de Bombom,Presente,35,18,38,1330,684,646
+2024-08-11,Ovo de Páscoa,Sazonal,80,40,38,3040,1520,1520
+2024-08-11,Chocolate Amargo,Premium,15,7,55,825,385,440
+2024-08-12,Trufa,Premium,8,3,48,384,144,240
+2024-08-12,Barra 100g,Tradicional,12,5,79,948,395,553
+2024-08-12,Caixa de Bombom,Presente,35,18,21,735,378,357
+2024-08-12,Ovo de Páscoa,Sazonal,80,40,20,1600,800,800
+2024-08-12,Chocolate Amargo,Premium,15,7,66,990,462,528
+2024-08-13,Trufa,Premium,8,3,88,704,264,440
+2024-08-13,Barra 100g,Tradicional,12,5,39,468,195,273
+2024-08-13,Caixa de Bombom,Presente,35,18,30,1050,540,510
+2024-08-13,Ovo de Páscoa,Sazonal,80,40,21,1680,840,840
+2024-08-13,Chocolate Amargo,Premium,15,7,86,1290,602,688
+2024-08-14,Trufa,Premium,8,3,31,248,93,155
+2024-08-14,Barra 100g,Tradicional,12,5,39,468,195,273
+2024-08-14,Caixa de Bombom,Presente,35,18,24,840,432,408
+2024-08-14,Ovo de Páscoa,Sazonal,80,40,56,4480,2240,2240
+2024-08-14,Chocolate Amargo,Premium,15,7,57,855,399,456
+2024-08-15,Trufa,Premium,8,3,28,224,84,140
+2024-08-15,Barra 100g,Tradicional,12,5,72,864,360,504
+2024-08-15,Caixa de Bombom,Presente,35,18,63,2205,1134,1071
+2024-08-15,Ovo de Páscoa,Sazonal,80,40,43,3440,1720,1720
+2024-08-15,Chocolate Amargo,Premium,15,7,93,1395,651,744
+2024-08-16,Trufa,Premium,8,3,49,392,147,245
+2024-08-16,Barra 100g,Tradicional,12,5,78,936,390,546
+2024-08-16,Caixa de Bombom,Presente,35,18,33,1155,594,561
+2024-08-16,Ovo de Páscoa,Sazonal,80,40,28,2240,1120,1120
+2024-08-16,Chocolate Amargo,Premium,15,7,59,885,413,472
+2024-08-17,Trufa,Premium,8,3,85,680,255,425
+2024-08-17,Barra 100g,Tradicional,12,5,44,528,220,308
+2024-08-17,Caixa de Bombom,Presente,35,18,92,3220,1656,1564
+2024-08-17,Ovo de Páscoa,Sazonal,80,40,41,3280,1640,1640
+2024-08-17,Chocolate Amargo,Premium,15,7,23,345,161,184
+2024-08-18,Trufa,Premium,8,3,45,360,135,225
+2024-08-18,Barra 100g,Tradicional,12,5,77,924,385,539
+2024-08-18,Caixa de Bombom,Presente,35,18,48,1680,864,816
+2024-08-18,Ovo de Páscoa,Sazonal,80,40,56,4480,2240,2240
+2024-08-18,Chocolate Amargo,Premium,15,7,94,1410,658,752
+2024-08-19,Trufa,Premium,8,3,89,712,267,445
+2024-08-19,Barra 100g,Tradicional,12,5,37,444,185,259
+2024-08-19,Caixa de Bombom,Presente,35,18,61,2135,1098,1037
+2024-08-19,Ovo de Páscoa,Sazonal,80,40,60,4800,2400,2400
+2024-08-19,Chocolate Amargo,Premium,15,7,57,855,399,456
+2024-08-20,Trufa,Premium,8,3,53,424,159,265
+2024-08-20,Barra 100g,Tradicional,12,5,36,432,180,252
+2024-08-20,Caixa de Bombom,Presente,35,18,56,1960,1008,952
+2024-08-20,Ovo de Páscoa,Sazonal,80,40,44,3520,1760,1760
+2024-08-20,Chocolate Amargo,Premium,15,7,95,1425,665,760
+2024-08-21,Trufa,Premium,8,3,46,368,138,230
+2024-08-21,Barra 100g,Tradicional,12,5,76,912,380,532
+2024-08-21,Caixa de Bombom,Presente,35,18,50,1750,900,850
+2024-08-21,Ovo de Páscoa,Sazonal,80,40,25,2000,1000,1000
+2024-08-21,Chocolate Amargo,Premium,15,7,59,885,413,472
+2024-08-22,Trufa,Premium,8,3,31,248,93,155
+2024-08-22,Barra 100g,Tradicional,12,5,72,864,360,504
+2024-08-22,Caixa de Bombom,Presente,35,18,90,3150,1620,1530
+2024-08-22,Ovo de Páscoa,Sazonal,80,40,29,2320,1160,1160
+2024-08-22,Chocolate Amargo,Premium,15,7,64,960,448,512
+2024-08-23,Trufa,Premium,8,3,36,288,108,180
+2024-08-23,Barra 100g,Tradicional,12,5,45,540,225,315
+2024-08-23,Caixa de Bombom,Presente,35,18,81,2835,1458,1377
+2024-08-23,Ovo de Páscoa,Sazonal,80,40,65,5200,2600,2600
+2024-08-23,Chocolate Amargo,Premium,15,7,83,1245,581,664
+2024-08-24,Trufa,Premium,8,3,21,168,63,105
+2024-08-24,Barra 100g,Tradicional,12,5,73,876,365,511
+2024-08-24,Caixa de Bombom,Presente,35,18,84,2940,1512,1428
+2024-08-24,Ovo de Páscoa,Sazonal,80,40,70,5600,2800,2800
+2024-08-24,Chocolate Amargo,Premium,15,7,72,1080,504,576
+2024-08-25,Trufa,Premium,8,3,55,440,165,275
+2024-08-25,Barra 100g,Tradicional,12,5,45,540,225,315
+2024-08-25,Caixa de Bombom,Presente,35,18,48,1680,864,816
+2024-08-25,Ovo de Páscoa,Sazonal,80,40,40,3200,1600,1600
+2024-08-25,Chocolate Amargo,Premium,15,7,30,450,210,240
+2024-08-26,Trufa,Premium,8,3,59,472,177,295
+2024-08-26,Barra 100g,Tradicional,12,5,30,360,150,210
+2024-08-26,Caixa de Bombom,Presente,35,18,55,1925,990,935
+2024-08-26,Ovo de Páscoa,Sazonal,80,40,78,6240,3120,3120
+2024-08-26,Chocolate Amargo,Premium,15,7,58,870,406,464
+2024-08-27,Trufa,Premium,8,3,73,584,219,365
+2024-08-27,Barra 100g,Tradicional,12,5,74,888,370,518
+2024-08-27,Caixa de Bombom,Presente,35,18,43,1505,774,731
+2024-08-27,Ovo de Páscoa,Sazonal,80,40,41,3280,1640,1640
+2024-08-27,Chocolate Amargo,Premium,15,7,88,1320,616,704
+2024-08-28,Trufa,Premium,8,3,75,600,225,375
+2024-08-28,Barra 100g,Tradicional,12,5,52,624,260,364
+2024-08-28,Caixa de Bombom,Presente,35,18,55,1925,990,935
+2024-08-28,Ovo de Páscoa,Sazonal,80,40,39,3120,1560,1560
+2024-08-28,Chocolate Amargo,Premium,15,7,81,1215,567,648
+2024-08-29,Trufa,Premium,8,3,92,736,276,460
+2024-08-29,Barra 100g,Tradicional,12,5,45,540,225,315
+2024-08-29,Caixa de Bombom,Presente,35,18,85,2975,1530,1445
+2024-08-29,Ovo de Páscoa,Sazonal,80,40,92,7360,3680,3680
+2024-08-29,Chocolate Amargo,Premium,15,7,92,1380,644,736
+2024-08-30,Trufa,Premium,8,3,59,472,177,295
+2024-08-30,Barra 100g,Tradicional,12,5,36,432,180,252
+2024-08-30,Caixa de Bombom,Presente,35,18,20,700,360,340
+2024-08-30,Ovo de Páscoa,Sazonal,80,40,80,6400,3200,3200
+2024-08-30,Chocolate Amargo,Premium,15,7,62,930,434,496
+2024-08-31,Trufa,Premium,8,3,61,488,183,305
+2024-08-31,Barra 100g,Tradicional,12,5,44,528,220,308
+2024-08-31,Caixa de Bombom,Presente,35,18,58,2030,1044,986
+2024-08-31,Ovo de Páscoa,Sazonal,80,40,54,4320,2160,2160
+2024-08-31,Chocolate Amargo,Premium,15,7,22,330,154,176
+2024-09-01,Trufa,Premium,8,3,63,504,189,315
+2024-09-01,Barra 100g,Tradicional,12,5,70,840,350,490
+2024-09-01,Caixa de Bombom,Presente,35,18,31,1085,558,527
+2024-09-01,Ovo de Páscoa,Sazonal,80,40,38,3040,1520,1520
+2024-09-01,Chocolate Amargo,Premium,15,7,63,945,441,504
+2024-09-02,Trufa,Premium,8,3,78,624,234,390
+2024-09-02,Barra 100g,Tradicional,12,5,68,816,340,476
+2024-09-02,Caixa de Bombom,Presente,35,18,80,2800,1440,1360
+2024-09-02,Ovo de Páscoa,Sazonal,80,40,36,2880,1440,1440
+2024-09-02,Chocolate Amargo,Premium,15,7,93,1395,651,744
+2024-09-03,Trufa,Premium,8,3,76,608,228,380
+2024-09-03,Barra 100g,Tradicional,12,5,74,888,370,518
+2024-09-03,Caixa de Bombom,Presente,35,18,66,2310,1188,1122
+2024-09-03,Ovo de Páscoa,Sazonal,80,40,31,2480,1240,1240
+2024-09-03,Chocolate Amargo,Premium,15,7,81,1215,567,648
+2024-09-04,Trufa,Premium,8,3,99,792,297,495
+2024-09-04,Barra 100g,Tradicional,12,5,27,324,135,189
+2024-09-04,Caixa de Bombom,Presente,35,18,40,1400,720,680
+2024-09-04,Ovo de Páscoa,Sazonal,80,40,99,7920,3960,3960
+2024-09-04,Chocolate Amargo,Premium,15,7,89,1335,623,712
+2024-09-05,Trufa,Premium,8,3,91,728,273,455
+2024-09-05,Barra 100g,Tradicional,12,5,44,528,220,308
+2024-09-05,Caixa de Bombom,Presente,35,18,31,1085,558,527
+2024-09-05,Ovo de Páscoa,Sazonal,80,40,34,2720,1360,1360
+2024-09-05,Chocolate Amargo,Premium,15,7,78,1170,546,624
+2024-09-06,Trufa,Premium,8,3,45,360,135,225
+2024-09-06,Barra 100g,Tradicional,12,5,45,540,225,315
+2024-09-06,Caixa de Bombom,Presente,35,18,66,2310,1188,1122
+2024-09-06,Ovo de Páscoa,Sazonal,80,40,51,4080,2040,2040
+2024-09-06,Chocolate Amargo,Premium,15,7,29,435,203,232
+2024-09-07,Trufa,Premium,8,3,35,280,105,175
+2024-09-07,Barra 100g,Tradicional,12,5,90,1080,450,630
+2024-09-07,Caixa de Bombom,Presente,35,18,36,1260,648,612
+2024-09-07,Ovo de Páscoa,Sazonal,80,40,42,3360,1680,1680
+2024-09-07,Chocolate Amargo,Premium,15,7,45,675,315,360
+2024-09-08,Trufa,Premium,8,3,26,208,78,130
+2024-09-08,Barra 100g,Tradicional,12,5,33,396,165,231
+2024-09-08,Caixa de Bombom,Presente,35,18,98,3430,1764,1666
+2024-09-08,Ovo de Páscoa,Sazonal,80,40,26,2080,1040,1040
+2024-09-08,Chocolate Amargo,Premium,15,7,28,420,196,224
+2024-09-09,Trufa,Premium,8,3,67,536,201,335
+2024-09-09,Barra 100g,Tradicional,12,5,91,1092,455,637
+2024-09-09,Caixa de Bombom,Presente,35,18,78,2730,1404,1326
+2024-09-09,Ovo de Páscoa,Sazonal,80,40,58,4640,2320,2320
+2024-09-09,Chocolate Amargo,Premium,15,7,37,555,259,296
+2024-09-10,Trufa,Premium,8,3,78,624,234,390
+2024-09-10,Barra 100g,Tradicional,12,5,36,432,180,252
+2024-09-10,Caixa de Bombom,Presente,35,18,33,1155,594,561
+2024-09-10,Ovo de Páscoa,Sazonal,80,40,50,4000,2000,2000
+2024-09-10,Chocolate Amargo,Premium,15,7,43,645,301,344
+2024-09-11,Trufa,Premium,8,3,79,632,237,395
+2024-09-11,Barra 100g,Tradicional,12,5,64,768,320,448
+2024-09-11,Caixa de Bombom,Presente,35,18,22,770,396,374
+2024-09-11,Ovo de Páscoa,Sazonal,80,40,56,4480,2240,2240
+2024-09-11,Chocolate Amargo,Premium,15,7,62,930,434,496
+2024-09-12,Trufa,Premium,8,3,59,472,177,295
+2024-09-12,Barra 100g,Tradicional,12,5,74,888,370,518
+2024-09-12,Caixa de Bombom,Presente,35,18,58,2030,1044,986
+2024-09-12,Ovo de Páscoa,Sazonal,80,40,34,2720,1360,1360
+2024-09-12,Chocolate Amargo,Premium,15,7,23,345,161,184
+2024-09-13,Trufa,Premium,8,3,44,352,132,220
+2024-09-13,Barra 100g,Tradicional,12,5,32,384,160,224
+2024-09-13,Caixa de Bombom,Presente,35,18,52,1820,936,884
+2024-09-13,Ovo de Páscoa,Sazonal,80,40,35,2800,1400,1400
+2024-09-13,Chocolate Amargo,Premium,15,7,61,915,427,488
+2024-09-14,Trufa,Premium,8,3,85,680,255,425
+2024-09-14,Barra 100g,Tradicional,12,5,74,888,370,518
+2024-09-14,Caixa de Bombom,Presente,35,18,61,2135,1098,1037
+2024-09-14,Ovo de Páscoa,Sazonal,80,40,53,4240,2120,2120
+2024-09-14,Chocolate Amargo,Premium,15,7,49,735,343,392
+2024-09-15,Trufa,Premium,8,3,32,256,96,160
+2024-09-15,Barra 100g,Tradicional,12,5,32,384,160,224
+2024-09-15,Caixa de Bombom,Presente,35,18,37,1295,666,629
+2024-09-15,Ovo de Páscoa,Sazonal,80,40,51,4080,2040,2040
+2024-09-15,Chocolate Amargo,Premium,15,7,58,870,406,464
+2024-09-16,Trufa,Premium,8,3,65,520,195,325
+2024-09-16,Barra 100g,Tradicional,12,5,48,576,240,336
+2024-09-16,Caixa de Bombom,Presente,35,18,81,2835,1458,1377
+2024-09-16,Ovo de Páscoa,Sazonal,80,40,81,6480,3240,3240
+2024-09-16,Chocolate Amargo,Premium,15,7,76,1140,532,608
+2024-09-17,Trufa,Premium,8,3,35,280,105,175
+2024-09-17,Barra 100g,Tradicional,12,5,75,900,375,525
+2024-09-17,Caixa de Bombom,Presente,35,18,29,1015,522,493
+2024-09-17,Ovo de Páscoa,Sazonal,80,40,49,3920,1960,1960
+2024-09-17,Chocolate Amargo,Premium,15,7,44,660,308,352
+2024-09-18,Trufa,Premium,8,3,24,192,72,120
+2024-09-18,Barra 100g,Tradicional,12,5,84,1008,420,588
+2024-09-18,Caixa de Bombom,Presente,35,18,68,2380,1224,1156
+2024-09-18,Ovo de Páscoa,Sazonal,80,40,22,1760,880,880
+2024-09-18,Chocolate Amargo,Premium,15,7,64,960,448,512
+2024-09-19,Trufa,Premium,8,3,33,264,99,165
+2024-09-19,Barra 100g,Tradicional,12,5,49,588,245,343
+2024-09-19,Caixa de Bombom,Presente,35,18,87,3045,1566,1479
+2024-09-19,Ovo de Páscoa,Sazonal,80,40,37,2960,1480,1480
+2024-09-19,Chocolate Amargo,Premium,15,7,81,1215,567,648
+2024-09-20,Trufa,Premium,8,3,56,448,168,280
+2024-09-20,Barra 100g,Tradicional,12,5,44,528,220,308
+2024-09-20,Caixa de Bombom,Presente,35,18,67,2345,1206,1139
+2024-09-20,Ovo de Páscoa,Sazonal,80,40,84,6720,3360,3360
+2024-09-20,Chocolate Amargo,Premium,15,7,72,1080,504,576
+2024-09-21,Trufa,Premium,8,3,98,784,294,490
+2024-09-21,Barra 100g,Tradicional,12,5,92,1104,460,644
+2024-09-21,Caixa de Bombom,Presente,35,18,34,1190,612,578
+2024-09-21,Ovo de Páscoa,Sazonal,80,40,68,5440,2720,2720
+2024-09-21,Chocolate Amargo,Premium,15,7,87,1305,609,696
+2024-09-22,Trufa,Premium,8,3,31,248,93,155
+2024-09-22,Barra 100g,Tradicional,12,5,78,936,390,546
+2024-09-22,Caixa de Bombom,Presente,35,18,56,1960,1008,952
+2024-09-22,Ovo de Páscoa,Sazonal,80,40,80,6400,3200,3200
+2024-09-22,Chocolate Amargo,Premium,15,7,62,930,434,496
+2024-09-23,Trufa,Premium,8,3,89,712,267,445
+2024-09-23,Barra 100g,Tradicional,12,5,58,696,290,406
+2024-09-23,Caixa de Bombom,Presente,35,18,75,2625,1350,1275
+2024-09-23,Ovo de Páscoa,Sazonal,80,40,82,6560,3280,3280
+2024-09-23,Chocolate Amargo,Premium,15,7,65,975,455,520
+2024-09-24,Trufa,Premium,8,3,30,240,90,150
+2024-09-24,Barra 100g,Tradicional,12,5,81,972,405,567
+2024-09-24,Caixa de Bombom,Presente,35,18,96,3360,1728,1632
+2024-09-24,Ovo de Páscoa,Sazonal,80,40,44,3520,1760,1760
+2024-09-24,Chocolate Amargo,Premium,15,7,90,1350,630,720
+2024-09-25,Trufa,Premium,8,3,71,568,213,355
+2024-09-25,Barra 100g,Tradicional,12,5,23,276,115,161
+2024-09-25,Caixa de Bombom,Presente,35,18,78,2730,1404,1326
+2024-09-25,Ovo de Páscoa,Sazonal,80,40,91,7280,3640,3640
+2024-09-25,Chocolate Amargo,Premium,15,7,39,585,273,312
+2024-09-26,Trufa,Premium,8,3,82,656,246,410
+2024-09-26,Barra 100g,Tradicional,12,5,73,876,365,511
+2024-09-26,Caixa de Bombom,Presente,35,18,93,3255,1674,1581
+2024-09-26,Ovo de Páscoa,Sazonal,80,40,76,6080,3040,3040
+2024-09-26,Chocolate Amargo,Premium,15,7,60,900,420,480
+2024-09-27,Trufa,Premium,8,3,22,176,66,110
+2024-09-27,Barra 100g,Tradicional,12,5,25,300,125,175
+2024-09-27,Caixa de Bombom,Presente,35,18,24,840,432,408
+2024-09-27,Ovo de Páscoa,Sazonal,80,40,24,1920,960,960
+2024-09-27,Chocolate Amargo,Premium,15,7,73,1095,511,584
+2024-09-28,Trufa,Premium,8,3,66,528,198,330
+2024-09-28,Barra 100g,Tradicional,12,5,68,816,340,476
+2024-09-28,Caixa de Bombom,Presente,35,18,28,980,504,476
+2024-09-28,Ovo de Páscoa,Sazonal,80,40,39,3120,1560,1560
+2024-09-28,Chocolate Amargo,Premium,15,7,80,1200,560,640
+2024-09-29,Trufa,Premium,8,3,54,432,162,270
+2024-09-29,Barra 100g,Tradicional,12,5,69,828,345,483
+2024-09-29,Caixa de Bombom,Presente,35,18,81,2835,1458,1377
+2024-09-29,Ovo de Páscoa,Sazonal,80,40,36,2880,1440,1440
+2024-09-29,Chocolate Amargo,Premium,15,7,22,330,154,176
+2024-09-30,Trufa,Premium,8,3,51,408,153,255
+2024-09-30,Barra 100g,Tradicional,12,5,32,384,160,224
+2024-09-30,Caixa de Bombom,Presente,35,18,92,3220,1656,1564
+2024-09-30,Ovo de Páscoa,Sazonal,80,40,87,6960,3480,3480
+2024-09-30,Chocolate Amargo,Premium,15,7,33,495,231,264
+2024-10-01,Trufa,Premium,8,3,30,240,90,150
+2024-10-01,Barra 100g,Tradicional,12,5,75,900,375,525
+2024-10-01,Caixa de Bombom,Presente,35,18,86,3010,1548,1462
+2024-10-01,Ovo de Páscoa,Sazonal,80,40,48,3840,1920,1920
+2024-10-01,Chocolate Amargo,Premium,15,7,28,420,196,224
+2024-10-02,Trufa,Premium,8,3,86,688,258,430
+2024-10-02,Barra 100g,Tradicional,12,5,44,528,220,308
+2024-10-02,Caixa de Bombom,Presente,35,18,95,3325,1710,1615
+2024-10-02,Ovo de Páscoa,Sazonal,80,40,61,4880,2440,2440
+2024-10-02,Chocolate Amargo,Premium,15,7,28,420,196,224
+2024-10-03,Trufa,Premium,8,3,98,784,294,490
+2024-10-03,Barra 100g,Tradicional,12,5,59,708,295,413
+2024-10-03,Caixa de Bombom,Presente,35,18,44,1540,792,748
+2024-10-03,Ovo de Páscoa,Sazonal,80,40,24,1920,960,960
+2024-10-03,Chocolate Amargo,Premium,15,7,30,450,210,240
+2024-10-04,Trufa,Premium,8,3,78,624,234,390
+2024-10-04,Barra 100g,Tradicional,12,5,98,1176,490,686
+2024-10-04,Caixa de Bombom,Presente,35,18,57,1995,1026,969
+2024-10-04,Ovo de Páscoa,Sazonal,80,40,91,7280,3640,3640
+2024-10-04,Chocolate Amargo,Premium,15,7,24,360,168,192
+2024-10-05,Trufa,Premium,8,3,67,536,201,335
+2024-10-05,Barra 100g,Tradicional,12,5,37,444,185,259
+2024-10-05,Caixa de Bombom,Presente,35,18,89,3115,1602,1513
+2024-10-05,Ovo de Páscoa,Sazonal,80,40,56,4480,2240,2240
+2024-10-05,Chocolate Amargo,Premium,15,7,79,1185,553,632
+2024-10-06,Trufa,Premium,8,3,67,536,201,335
+2024-10-06,Barra 100g,Tradicional,12,5,96,1152,480,672
+2024-10-06,Caixa de Bombom,Presente,35,18,47,1645,846,799
+2024-10-06,Ovo de Páscoa,Sazonal,80,40,88,7040,3520,3520
+2024-10-06,Chocolate Amargo,Premium,15,7,96,1440,672,768
+2024-10-07,Trufa,Premium,8,3,59,472,177,295
+2024-10-07,Barra 100g,Tradicional,12,5,64,768,320,448
+2024-10-07,Caixa de Bombom,Presente,35,18,81,2835,1458,1377
+2024-10-07,Ovo de Páscoa,Sazonal,80,40,77,6160,3080,3080
+2024-10-07,Chocolate Amargo,Premium,15,7,86,1290,602,688
+2024-10-08,Trufa,Premium,8,3,75,600,225,375
+2024-10-08,Barra 100g,Tradicional,12,5,59,708,295,413
+2024-10-08,Caixa de Bombom,Presente,35,18,59,2065,1062,1003
+2024-10-08,Ovo de Páscoa,Sazonal,80,40,96,7680,3840,3840
+2024-10-08,Chocolate Amargo,Premium,15,7,52,780,364,416
+2024-10-09,Trufa,Premium,8,3,25,200,75,125
+2024-10-09,Barra 100g,Tradicional,12,5,38,456,190,266
+2024-10-09,Caixa de Bombom,Presente,35,18,99,3465,1782,1683
+2024-10-09,Ovo de Páscoa,Sazonal,80,40,59,4720,2360,2360
+2024-10-09,Chocolate Amargo,Premium,15,7,78,1170,546,624
+2024-10-10,Trufa,Premium,8,3,78,624,234,390
+2024-10-10,Barra 100g,Tradicional,12,5,67,804,335,469
+2024-10-10,Caixa de Bombom,Presente,35,18,60,2100,1080,1020
+2024-10-10,Ovo de Páscoa,Sazonal,80,40,32,2560,1280,1280
+2024-10-10,Chocolate Amargo,Premium,15,7,64,960,448,512
+2024-10-11,Trufa,Premium,8,3,72,576,216,360
+2024-10-11,Barra 100g,Tradicional,12,5,61,732,305,427
+2024-10-11,Caixa de Bombom,Presente,35,18,82,2870,1476,1394
+2024-10-11,Ovo de Páscoa,Sazonal,80,40,46,3680,1840,1840
+2024-10-11,Chocolate Amargo,Premium,15,7,57,855,399,456
+2024-10-12,Trufa,Premium,8,3,79,632,237,395
+2024-10-12,Barra 100g,Tradicional,12,5,26,312,130,182
+2024-10-12,Caixa de Bombom,Presente,35,18,24,840,432,408
+2024-10-12,Ovo de Páscoa,Sazonal,80,40,64,5120,2560,2560
+2024-10-12,Chocolate Amargo,Premium,15,7,77,1155,539,616
+2024-10-13,Trufa,Premium,8,3,50,400,150,250
+2024-10-13,Barra 100g,Tradicional,12,5,42,504,210,294
+2024-10-13,Caixa de Bombom,Presente,35,18,61,2135,1098,1037
+2024-10-13,Ovo de Páscoa,Sazonal,80,40,29,2320,1160,1160
+2024-10-13,Chocolate Amargo,Premium,15,7,51,765,357,408
+2024-10-14,Trufa,Premium,8,3,72,576,216,360
+2024-10-14,Barra 100g,Tradicional,12,5,49,588,245,343
+2024-10-14,Caixa de Bombom,Presente,35,18,58,2030,1044,986
+2024-10-14,Ovo de Páscoa,Sazonal,80,40,50,4000,2000,2000
+2024-10-14,Chocolate Amargo,Premium,15,7,21,315,147,168
+2024-10-15,Trufa,Premium,8,3,97,776,291,485
+2024-10-15,Barra 100g,Tradicional,12,5,96,1152,480,672
+2024-10-15,Caixa de Bombom,Presente,35,18,31,1085,558,527
+2024-10-15,Ovo de Páscoa,Sazonal,80,40,58,4640,2320,2320
+2024-10-15,Chocolate Amargo,Premium,15,7,85,1275,595,680
+2024-10-16,Trufa,Premium,8,3,32,256,96,160
+2024-10-16,Barra 100g,Tradicional,12,5,65,780,325,455
+2024-10-16,Caixa de Bombom,Presente,35,18,46,1610,828,782
+2024-10-16,Ovo de Páscoa,Sazonal,80,40,36,2880,1440,1440
+2024-10-16,Chocolate Amargo,Premium,15,7,79,1185,553,632
+2024-10-17,Trufa,Premium,8,3,83,664,249,415
+2024-10-17,Barra 100g,Tradicional,12,5,54,648,270,378
+2024-10-17,Caixa de Bombom,Presente,35,18,89,3115,1602,1513
+2024-10-17,Ovo de Páscoa,Sazonal,80,40,49,3920,1960,1960
+2024-10-17,Chocolate Amargo,Premium,15,7,90,1350,630,720
+2024-10-18,Trufa,Premium,8,3,93,744,279,465
+2024-10-18,Barra 100g,Tradicional,12,5,82,984,410,574
+2024-10-18,Caixa de Bombom,Presente,35,18,47,1645,846,799
+2024-10-18,Ovo de Páscoa,Sazonal,80,40,79,6320,3160,3160
+2024-10-18,Chocolate Amargo,Premium,15,7,98,1470,686,784
+2024-10-19,Trufa,Premium,8,3,56,448,168,280
+2024-10-19,Barra 100g,Tradicional,12,5,41,492,205,287
+2024-10-19,Caixa de Bombom,Presente,35,18,87,3045,1566,1479
+2024-10-19,Ovo de Páscoa,Sazonal,80,40,39,3120,1560,1560
+2024-10-19,Chocolate Amargo,Premium,15,7,87,1305,609,696
+2024-10-20,Trufa,Premium,8,3,83,664,249,415
+2024-10-20,Barra 100g,Tradicional,12,5,36,432,180,252
+2024-10-20,Caixa de Bombom,Presente,35,18,31,1085,558,527
+2024-10-20,Ovo de Páscoa,Sazonal,80,40,41,3280,1640,1640
+2024-10-20,Chocolate Amargo,Premium,15,7,36,540,252,288
+2024-10-21,Trufa,Premium,8,3,29,232,87,145
+2024-10-21,Barra 100g,Tradicional,12,5,84,1008,420,588
+2024-10-21,Caixa de Bombom,Presente,35,18,41,1435,738,697
+2024-10-21,Ovo de Páscoa,Sazonal,80,40,69,5520,2760,2760
+2024-10-21,Chocolate Amargo,Premium,15,7,33,495,231,264
+2024-10-22,Trufa,Premium,8,3,83,664,249,415
+2024-10-22,Barra 100g,Tradicional,12,5,66,792,330,462
+2024-10-22,Caixa de Bombom,Presente,35,18,48,1680,864,816
+2024-10-22,Ovo de Páscoa,Sazonal,80,40,95,7600,3800,3800
+2024-10-22,Chocolate Amargo,Premium,15,7,55,825,385,440
+2024-10-23,Trufa,Premium,8,3,71,568,213,355
+2024-10-23,Barra 100g,Tradicional,12,5,95,1140,475,665
+2024-10-23,Caixa de Bombom,Presente,35,18,26,910,468,442
+2024-10-23,Ovo de Páscoa,Sazonal,80,40,48,3840,1920,1920
+2024-10-23,Chocolate Amargo,Premium,15,7,30,450,210,240
+2024-10-24,Trufa,Premium,8,3,52,416,156,260
+2024-10-24,Barra 100g,Tradicional,12,5,25,300,125,175
+2024-10-24,Caixa de Bombom,Presente,35,18,98,3430,1764,1666
+2024-10-24,Ovo de Páscoa,Sazonal,80,40,51,4080,2040,2040
+2024-10-24,Chocolate Amargo,Premium,15,7,70,1050,490,560
+2024-10-25,Trufa,Premium,8,3,94,752,282,470
+2024-10-25,Barra 100g,Tradicional,12,5,77,924,385,539
+2024-10-25,Caixa de Bombom,Presente,35,18,45,1575,810,765
+2024-10-25,Ovo de Páscoa,Sazonal,80,40,65,5200,2600,2600
+2024-10-25,Chocolate Amargo,Premium,15,7,48,720,336,384
+2024-10-26,Trufa,Premium,8,3,23,184,69,115
+2024-10-26,Barra 100g,Tradicional,12,5,32,384,160,224
+2024-10-26,Caixa de Bombom,Presente,35,18,58,2030,1044,986
+2024-10-26,Ovo de Páscoa,Sazonal,80,40,34,2720,1360,1360
+2024-10-26,Chocolate Amargo,Premium,15,7,48,720,336,384
+2024-10-27,Trufa,Premium,8,3,48,384,144,240
+2024-10-27,Barra 100g,Tradicional,12,5,94,1128,470,658
+2024-10-27,Caixa de Bombom,Presente,35,18,51,1785,918,867
+2024-10-27,Ovo de Páscoa,Sazonal,80,40,21,1680,840,840
+2024-10-27,Chocolate Amargo,Premium,15,7,66,990,462,528
+2024-10-28,Trufa,Premium,8,3,97,776,291,485
+2024-10-28,Barra 100g,Tradicional,12,5,41,492,205,287
+2024-10-28,Caixa de Bombom,Presente,35,18,94,3290,1692,1598
+2024-10-28,Ovo de Páscoa,Sazonal,80,40,46,3680,1840,1840
+2024-10-28,Chocolate Amargo,Premium,15,7,86,1290,602,688
+2024-10-29,Trufa,Premium,8,3,75,600,225,375
+2024-10-29,Barra 100g,Tradicional,12,5,40,480,200,280
+2024-10-29,Caixa de Bombom,Presente,35,18,66,2310,1188,1122
+2024-10-29,Ovo de Páscoa,Sazonal,80,40,99,7920,3960,3960
+2024-10-29,Chocolate Amargo,Premium,15,7,78,1170,546,624
+2024-10-30,Trufa,Premium,8,3,25,200,75,125
+2024-10-30,Barra 100g,Tradicional,12,5,38,456,190,266
+2024-10-30,Caixa de Bombom,Presente,35,18,76,2660,1368,1292
+2024-10-30,Ovo de Páscoa,Sazonal,80,40,88,7040,3520,3520
+2024-10-30,Chocolate Amargo,Premium,15,7,22,330,154,176
+2024-10-31,Trufa,Premium,8,3,20,160,60,100
+2024-10-31,Barra 100g,Tradicional,12,5,77,924,385,539
+2024-10-31,Caixa de Bombom,Presente,35,18,57,1995,1026,969
+2024-10-31,Ovo de Páscoa,Sazonal,80,40,34,2720,1360,1360
+2024-10-31,Chocolate Amargo,Premium,15,7,53,795,371,424
+2024-11-01,Trufa,Premium,8,3,80,640,240,400
+2024-11-01,Barra 100g,Tradicional,12,5,54,648,270,378
+2024-11-01,Caixa de Bombom,Presente,35,18,83,2905,1494,1411
+2024-11-01,Ovo de Páscoa,Sazonal,80,40,44,3520,1760,1760
+2024-11-01,Chocolate Amargo,Premium,15,7,43,645,301,344
+2024-11-02,Trufa,Premium,8,3,31,248,93,155
+2024-11-02,Barra 100g,Tradicional,12,5,37,444,185,259
+2024-11-02,Caixa de Bombom,Presente,35,18,34,1190,612,578
+2024-11-02,Ovo de Páscoa,Sazonal,80,40,99,7920,3960,3960
+2024-11-02,Chocolate Amargo,Premium,15,7,46,690,322,368
+2024-11-03,Trufa,Premium,8,3,91,728,273,455
+2024-11-03,Barra 100g,Tradicional,12,5,79,948,395,553
+2024-11-03,Caixa de Bombom,Presente,35,18,65,2275,1170,1105
+2024-11-03,Ovo de Páscoa,Sazonal,80,40,36,2880,1440,1440
+2024-11-03,Chocolate Amargo,Premium,15,7,72,1080,504,576
+2024-11-04,Trufa,Premium,8,3,27,216,81,135
+2024-11-04,Barra 100g,Tradicional,12,5,98,1176,490,686
+2024-11-04,Caixa de Bombom,Presente,35,18,46,1610,828,782
+2024-11-04,Ovo de Páscoa,Sazonal,80,40,65,5200,2600,2600
+2024-11-04,Chocolate Amargo,Premium,15,7,69,1035,483,552
+2024-11-05,Trufa,Premium,8,3,90,720,270,450
+2024-11-05,Barra 100g,Tradicional,12,5,22,264,110,154
+2024-11-05,Caixa de Bombom,Presente,35,18,83,2905,1494,1411
+2024-11-05,Ovo de Páscoa,Sazonal,80,40,63,5040,2520,2520
+2024-11-05,Chocolate Amargo,Premium,15,7,72,1080,504,576
+2024-11-06,Trufa,Premium,8,3,43,344,129,215
+2024-11-06,Barra 100g,Tradicional,12,5,79,948,395,553
+2024-11-06,Caixa de Bombom,Presente,35,18,22,770,396,374
+2024-11-06,Ovo de Páscoa,Sazonal,80,40,39,3120,1560,1560
+2024-11-06,Chocolate Amargo,Premium,15,7,65,975,455,520
+2024-11-07,Trufa,Premium,8,3,34,272,102,170
+2024-11-07,Barra 100g,Tradicional,12,5,44,528,220,308
+2024-11-07,Caixa de Bombom,Presente,35,18,97,3395,1746,1649
+2024-11-07,Ovo de Páscoa,Sazonal,80,40,90,7200,3600,3600
+2024-11-07,Chocolate Amargo,Premium,15,7,36,540,252,288
+2024-11-08,Trufa,Premium,8,3,28,224,84,140
+2024-11-08,Barra 100g,Tradicional,12,5,57,684,285,399
+2024-11-08,Caixa de Bombom,Presente,35,18,67,2345,1206,1139
+2024-11-08,Ovo de Páscoa,Sazonal,80,40,79,6320,3160,3160
+2024-11-08,Chocolate Amargo,Premium,15,7,82,1230,574,656
+2024-11-09,Trufa,Premium,8,3,21,168,63,105
+2024-11-09,Barra 100g,Tradicional,12,5,91,1092,455,637
+2024-11-09,Caixa de Bombom,Presente,35,18,30,1050,540,510
+2024-11-09,Ovo de Páscoa,Sazonal,80,40,83,6640,3320,3320
+2024-11-09,Chocolate Amargo,Premium,15,7,96,1440,672,768
+2024-11-10,Trufa,Premium,8,3,91,728,273,455
+2024-11-10,Barra 100g,Tradicional,12,5,40,480,200,280
+2024-11-10,Caixa de Bombom,Presente,35,18,37,1295,666,629
+2024-11-10,Ovo de Páscoa,Sazonal,80,40,83,6640,3320,3320
+2024-11-10,Chocolate Amargo,Premium,15,7,57,855,399,456
+2024-11-11,Trufa,Premium,8,3,51,408,153,255
+2024-11-11,Barra 100g,Tradicional,12,5,30,360,150,210
+2024-11-11,Caixa de Bombom,Presente,35,18,64,2240,1152,1088
+2024-11-11,Ovo de Páscoa,Sazonal,80,40,52,4160,2080,2080
+2024-11-11,Chocolate Amargo,Premium,15,7,60,900,420,480
+2024-11-12,Trufa,Premium,8,3,27,216,81,135
+2024-11-12,Barra 100g,Tradicional,12,5,30,360,150,210
+2024-11-12,Caixa de Bombom,Presente,35,18,70,2450,1260,1190
+2024-11-12,Ovo de Páscoa,Sazonal,80,40,60,4800,2400,2400
+2024-11-12,Chocolate Amargo,Premium,15,7,36,540,252,288
+2024-11-13,Trufa,Premium,8,3,95,760,285,475
+2024-11-13,Barra 100g,Tradicional,12,5,65,780,325,455
+2024-11-13,Caixa de Bombom,Presente,35,18,51,1785,918,867
+2024-11-13,Ovo de Páscoa,Sazonal,80,40,98,7840,3920,3920
+2024-11-13,Chocolate Amargo,Premium,15,7,99,1485,693,792
+2024-11-14,Trufa,Premium,8,3,73,584,219,365
+2024-11-14,Barra 100g,Tradicional,12,5,39,468,195,273
+2024-11-14,Caixa de Bombom,Presente,35,18,52,1820,936,884
+2024-11-14,Ovo de Páscoa,Sazonal,80,40,93,7440,3720,3720
+2024-11-14,Chocolate Amargo,Premium,15,7,59,885,413,472
+2024-11-15,Trufa,Premium,8,3,51,408,153,255
+2024-11-15,Barra 100g,Tradicional,12,5,21,252,105,147
+2024-11-15,Caixa de Bombom,Presente,35,18,52,1820,936,884
+2024-11-15,Ovo de Páscoa,Sazonal,80,40,96,7680,3840,3840
+2024-11-15,Chocolate Amargo,Premium,15,7,49,735,343,392
+2024-11-16,Trufa,Premium,8,3,52,416,156,260
+2024-11-16,Barra 100g,Tradicional,12,5,96,1152,480,672
+2024-11-16,Caixa de Bombom,Presente,35,18,45,1575,810,765
+2024-11-16,Ovo de Páscoa,Sazonal,80,40,41,3280,1640,1640
+2024-11-16,Chocolate Amargo,Premium,15,7,85,1275,595,680
+2024-11-17,Trufa,Premium,8,3,57,456,171,285
+2024-11-17,Barra 100g,Tradicional,12,5,65,780,325,455
+2024-11-17,Caixa de Bombom,Presente,35,18,34,1190,612,578
+2024-11-17,Ovo de Páscoa,Sazonal,80,40,63,5040,2520,2520
+2024-11-17,Chocolate Amargo,Premium,15,7,68,1020,476,544
+2024-11-18,Trufa,Premium,8,3,94,752,282,470
+2024-11-18,Barra 100g,Tradicional,12,5,80,960,400,560
+2024-11-18,Caixa de Bombom,Presente,35,18,86,3010,1548,1462
+2024-11-18,Ovo de Páscoa,Sazonal,80,40,25,2000,1000,1000
+2024-11-18,Chocolate Amargo,Premium,15,7,28,420,196,224
+2024-11-19,Trufa,Premium,8,3,25,200,75,125
+2024-11-19,Barra 100g,Tradicional,12,5,92,1104,460,644
+2024-11-19,Caixa de Bombom,Presente,35,18,51,1785,918,867
+2024-11-19,Ovo de Páscoa,Sazonal,80,40,60,4800,2400,2400
+2024-11-19,Chocolate Amargo,Premium,15,7,95,1425,665,760
+2024-11-20,Trufa,Premium,8,3,27,216,81,135
+2024-11-20,Barra 100g,Tradicional,12,5,91,1092,455,637
+2024-11-20,Caixa de Bombom,Presente,35,18,69,2415,1242,1173
+2024-11-20,Ovo de Páscoa,Sazonal,80,40,81,6480,3240,3240
+2024-11-20,Chocolate Amargo,Premium,15,7,81,1215,567,648
+2024-11-21,Trufa,Premium,8,3,26,208,78,130
+2024-11-21,Barra 100g,Tradicional,12,5,94,1128,470,658
+2024-11-21,Caixa de Bombom,Presente,35,18,99,3465,1782,1683
+2024-11-21,Ovo de Páscoa,Sazonal,80,40,23,1840,920,920
+2024-11-21,Chocolate Amargo,Premium,15,7,25,375,175,200
+2024-11-22,Trufa,Premium,8,3,77,616,231,385
+2024-11-22,Barra 100g,Tradicional,12,5,41,492,205,287
+2024-11-22,Caixa de Bombom,Presente,35,18,45,1575,810,765
+2024-11-22,Ovo de Páscoa,Sazonal,80,40,22,1760,880,880
+2024-11-22,Chocolate Amargo,Premium,15,7,60,900,420,480
+2024-11-23,Trufa,Premium,8,3,79,632,237,395
+2024-11-23,Barra 100g,Tradicional,12,5,33,396,165,231
+2024-11-23,Caixa de Bombom,Presente,35,18,94,3290,1692,1598
+2024-11-23,Ovo de Páscoa,Sazonal,80,40,31,2480,1240,1240
+2024-11-23,Chocolate Amargo,Premium,15,7,31,465,217,248
+2024-11-24,Trufa,Premium,8,3,32,256,96,160
+2024-11-24,Barra 100g,Tradicional,12,5,44,528,220,308
+2024-11-24,Caixa de Bombom,Presente,35,18,64,2240,1152,1088
+2024-11-24,Ovo de Páscoa,Sazonal,80,40,38,3040,1520,1520
+2024-11-24,Chocolate Amargo,Premium,15,7,74,1110,518,592
+2024-11-25,Trufa,Premium,8,3,64,512,192,320
+2024-11-25,Barra 100g,Tradicional,12,5,27,324,135,189
+2024-11-25,Caixa de Bombom,Presente,35,18,72,2520,1296,1224
+2024-11-25,Ovo de Páscoa,Sazonal,80,40,74,5920,2960,2960
+2024-11-25,Chocolate Amargo,Premium,15,7,51,765,357,408
+2024-11-26,Trufa,Premium,8,3,70,560,210,350
+2024-11-26,Barra 100g,Tradicional,12,5,63,756,315,441
+2024-11-26,Caixa de Bombom,Presente,35,18,89,3115,1602,1513
+2024-11-26,Ovo de Páscoa,Sazonal,80,40,37,2960,1480,1480
+2024-11-26,Chocolate Amargo,Premium,15,7,41,615,287,328
+2024-11-27,Trufa,Premium,8,3,56,448,168,280
+2024-11-27,Barra 100g,Tradicional,12,5,75,900,375,525
+2024-11-27,Caixa de Bombom,Presente,35,18,78,2730,1404,1326
+2024-11-27,Ovo de Páscoa,Sazonal,80,40,22,1760,880,880
+2024-11-27,Chocolate Amargo,Premium,15,7,47,705,329,376
+2024-11-28,Trufa,Premium,8,3,93,744,279,465
+2024-11-28,Barra 100g,Tradicional,12,5,54,648,270,378
+2024-11-28,Caixa de Bombom,Presente,35,18,80,2800,1440,1360
+2024-11-28,Ovo de Páscoa,Sazonal,80,40,73,5840,2920,2920
+2024-11-28,Chocolate Amargo,Premium,15,7,82,1230,574,656
+2024-11-29,Trufa,Premium,8,3,98,784,294,490
+2024-11-29,Barra 100g,Tradicional,12,5,26,312,130,182
+2024-11-29,Caixa de Bombom,Presente,35,18,95,3325,1710,1615
+2024-11-29,Ovo de Páscoa,Sazonal,80,40,68,5440,2720,2720
+2024-11-29,Chocolate Amargo,Premium,15,7,50,750,350,400
+2024-11-30,Trufa,Premium,8,3,77,616,231,385
+2024-11-30,Barra 100g,Tradicional,12,5,80,960,400,560
+2024-11-30,Caixa de Bombom,Presente,35,18,43,1505,774,731
+2024-11-30,Ovo de Páscoa,Sazonal,80,40,39,3120,1560,1560
+2024-11-30,Chocolate Amargo,Premium,15,7,56,840,392,448
+2024-12-01,Trufa,Premium,8,3,46,368,138,230
+2024-12-01,Barra 100g,Tradicional,12,5,78,936,390,546
+2024-12-01,Caixa de Bombom,Presente,35,18,158,5530,2844,2686
+2024-12-01,Ovo de Páscoa,Sazonal,80,40,86,6880,3440,3440
+2024-12-01,Chocolate Amargo,Premium,15,7,138,2070,966,1104
+2024-12-02,Trufa,Premium,8,3,136,1088,408,680
+2024-12-02,Barra 100g,Tradicional,12,5,140,1680,700,980
+2024-12-02,Caixa de Bombom,Presente,35,18,110,3850,1980,1870
+2024-12-02,Ovo de Páscoa,Sazonal,80,40,170,13600,6800,6800
+2024-12-02,Chocolate Amargo,Premium,15,7,196,2940,1372,1568
+2024-12-03,Trufa,Premium,8,3,106,848,318,530
+2024-12-03,Barra 100g,Tradicional,12,5,110,1320,550,770
+2024-12-03,Caixa de Bombom,Presente,35,18,50,1750,900,850
+2024-12-03,Ovo de Páscoa,Sazonal,80,40,116,9280,4640,4640
+2024-12-03,Chocolate Amargo,Premium,15,7,122,1830,854,976
+2024-12-04,Trufa,Premium,8,3,154,1232,462,770
+2024-12-04,Barra 100g,Tradicional,12,5,62,744,310,434
+2024-12-04,Caixa de Bombom,Presente,35,18,44,1540,792,748
+2024-12-04,Ovo de Páscoa,Sazonal,80,40,74,5920,2960,2960
+2024-12-04,Chocolate Amargo,Premium,15,7,118,1770,826,944
+2024-12-05,Trufa,Premium,8,3,80,640,240,400
+2024-12-05,Barra 100g,Tradicional,12,5,68,816,340,476
+2024-12-05,Caixa de Bombom,Presente,35,18,90,3150,1620,1530
+2024-12-05,Ovo de Páscoa,Sazonal,80,40,54,4320,2160,2160
+2024-12-05,Chocolate Amargo,Premium,15,7,122,1830,854,976
+2024-12-06,Trufa,Premium,8,3,126,1008,378,630
+2024-12-06,Barra 100g,Tradicional,12,5,66,792,330,462
+2024-12-06,Caixa de Bombom,Presente,35,18,194,6790,3492,3298
+2024-12-06,Ovo de Páscoa,Sazonal,80,40,42,3360,1680,1680
+2024-12-06,Chocolate Amargo,Premium,15,7,112,1680,784,896
+2024-12-07,Trufa,Premium,8,3,176,1408,528,880
+2024-12-07,Barra 100g,Tradicional,12,5,114,1368,570,798
+2024-12-07,Caixa de Bombom,Presente,35,18,120,4200,2160,2040
+2024-12-07,Ovo de Páscoa,Sazonal,80,40,162,12960,6480,6480
+2024-12-07,Chocolate Amargo,Premium,15,7,158,2370,1106,1264
+2024-12-08,Trufa,Premium,8,3,66,528,198,330
+2024-12-08,Barra 100g,Tradicional,12,5,42,504,210,294
+2024-12-08,Caixa de Bombom,Presente,35,18,178,6230,3204,3026
+2024-12-08,Ovo de Páscoa,Sazonal,80,40,72,5760,2880,2880
+2024-12-08,Chocolate Amargo,Premium,15,7,94,1410,658,752
+2024-12-09,Trufa,Premium,8,3,170,1360,510,850
+2024-12-09,Barra 100g,Tradicional,12,5,108,1296,540,756
+2024-12-09,Caixa de Bombom,Presente,35,18,48,1680,864,816
+2024-12-09,Ovo de Páscoa,Sazonal,80,40,168,13440,6720,6720
+2024-12-09,Chocolate Amargo,Premium,15,7,118,1770,826,944
+2024-12-10,Trufa,Premium,8,3,190,1520,570,950
+2024-12-10,Barra 100g,Tradicional,12,5,150,1800,750,1050
+2024-12-10,Caixa de Bombom,Presente,35,18,110,3850,1980,1870
+2024-12-10,Ovo de Páscoa,Sazonal,80,40,128,10240,5120,5120
+2024-12-10,Chocolate Amargo,Premium,15,7,84,1260,588,672
+2024-12-11,Trufa,Premium,8,3,132,1056,396,660
+2024-12-11,Barra 100g,Tradicional,12,5,100,1200,500,700
+2024-12-11,Caixa de Bombom,Presente,35,18,60,2100,1080,1020
+2024-12-11,Ovo de Páscoa,Sazonal,80,40,58,4640,2320,2320
+2024-12-11,Chocolate Amargo,Premium,15,7,172,2580,1204,1376
+2024-12-12,Trufa,Premium,8,3,66,528,198,330
+2024-12-12,Barra 100g,Tradicional,12,5,198,2376,990,1386
+2024-12-12,Caixa de Bombom,Presente,35,18,186,6510,3348,3162
+2024-12-12,Ovo de Páscoa,Sazonal,80,40,58,4640,2320,2320
+2024-12-12,Chocolate Amargo,Premium,15,7,190,2850,1330,1520
+2024-12-13,Trufa,Premium,8,3,40,320,120,200
+2024-12-13,Barra 100g,Tradicional,12,5,48,576,240,336
+2024-12-13,Caixa de Bombom,Presente,35,18,78,2730,1404,1326
+2024-12-13,Ovo de Páscoa,Sazonal,80,40,54,4320,2160,2160
+2024-12-13,Chocolate Amargo,Premium,15,7,124,1860,868,992
+2024-12-14,Trufa,Premium,8,3,190,1520,570,950
+2024-12-14,Barra 100g,Tradicional,12,5,40,480,200,280
+2024-12-14,Caixa de Bombom,Presente,35,18,152,5320,2736,2584
+2024-12-14,Ovo de Páscoa,Sazonal,80,40,166,13280,6640,6640
+2024-12-14,Chocolate Amargo,Premium,15,7,94,1410,658,752
+2024-12-15,Trufa,Premium,8,3,112,896,336,560
+2024-12-15,Barra 100g,Tradicional,12,5,132,1584,660,924
+2024-12-15,Caixa de Bombom,Presente,35,18,190,6650,3420,3230
+2024-12-15,Ovo de Páscoa,Sazonal,80,40,112,8960,4480,4480
+2024-12-15,Chocolate Amargo,Premium,15,7,136,2040,952,1088
+2024-12-16,Trufa,Premium,8,3,126,1008,378,630
+2024-12-16,Barra 100g,Tradicional,12,5,150,1800,750,1050
+2024-12-16,Caixa de Bombom,Presente,35,18,94,3290,1692,1598
+2024-12-16,Ovo de Páscoa,Sazonal,80,40,196,15680,7840,7840
+2024-12-16,Chocolate Amargo,Premium,15,7,50,750,350,400
+2024-12-17,Trufa,Premium,8,3,160,1280,480,800
+2024-12-17,Barra 100g,Tradicional,12,5,78,936,390,546
+2024-12-17,Caixa de Bombom,Presente,35,18,194,6790,3492,3298
+2024-12-17,Ovo de Páscoa,Sazonal,80,40,42,3360,1680,1680
+2024-12-17,Chocolate Amargo,Premium,15,7,184,2760,1288,1472
+2024-12-18,Trufa,Premium,8,3,112,896,336,560
+2024-12-18,Barra 100g,Tradicional,12,5,78,936,390,546
+2024-12-18,Caixa de Bombom,Presente,35,18,90,3150,1620,1530
+2024-12-18,Ovo de Páscoa,Sazonal,80,40,96,7680,3840,3840
+2024-12-18,Chocolate Amargo,Premium,15,7,40,600,280,320
+2024-12-19,Trufa,Premium,8,3,108,864,324,540
+2024-12-19,Barra 100g,Tradicional,12,5,178,2136,890,1246
+2024-12-19,Caixa de Bombom,Presente,35,18,156,5460,2808,2652
+2024-12-19,Ovo de Páscoa,Sazonal,80,40,176,14080,7040,7040
+2024-12-19,Chocolate Amargo,Premium,15,7,104,1560,728,832
+2024-12-20,Trufa,Premium,8,3,140,1120,420,700
+2024-12-20,Barra 100g,Tradicional,12,5,194,2328,970,1358
+2024-12-20,Caixa de Bombom,Presente,35,18,62,2170,1116,1054
+2024-12-20,Ovo de Páscoa,Sazonal,80,40,78,6240,3120,3120
+2024-12-20,Chocolate Amargo,Premium,15,7,144,2160,1008,1152
+2024-12-21,Trufa,Premium,8,3,124,992,372,620
+2024-12-21,Barra 100g,Tradicional,12,5,138,1656,690,966
+2024-12-21,Caixa de Bombom,Presente,35,18,96,3360,1728,1632
+2024-12-21,Ovo de Páscoa,Sazonal,80,40,152,12160,6080,6080
+2024-12-21,Chocolate Amargo,Premium,15,7,116,1740,812,928
+2024-12-22,Trufa,Premium,8,3,150,1200,450,750
+2024-12-22,Barra 100g,Tradicional,12,5,124,1488,620,868
+2024-12-22,Caixa de Bombom,Presente,35,18,138,4830,2484,2346
+2024-12-22,Ovo de Páscoa,Sazonal,80,40,84,6720,3360,3360
+2024-12-22,Chocolate Amargo,Premium,15,7,126,1890,882,1008
+2024-12-23,Trufa,Premium,8,3,114,912,342,570
+2024-12-23,Barra 100g,Tradicional,12,5,84,1008,420,588
+2024-12-23,Caixa de Bombom,Presente,35,18,128,4480,2304,2176
+2024-12-23,Ovo de Páscoa,Sazonal,80,40,142,11360,5680,5680
+2024-12-23,Chocolate Amargo,Premium,15,7,198,2970,1386,1584
+2024-12-24,Trufa,Premium,8,3,138,1104,414,690
+2024-12-24,Barra 100g,Tradicional,12,5,54,648,270,378
+2024-12-24,Caixa de Bombom,Presente,35,18,40,1400,720,680
+2024-12-24,Ovo de Páscoa,Sazonal,80,40,54,4320,2160,2160
+2024-12-24,Chocolate Amargo,Premium,15,7,96,1440,672,768
+2024-12-25,Trufa,Premium,8,3,48,384,144,240
+2024-12-25,Barra 100g,Tradicional,12,5,132,1584,660,924
+2024-12-25,Caixa de Bombom,Presente,35,18,106,3710,1908,1802
+2024-12-25,Ovo de Páscoa,Sazonal,80,40,168,13440,6720,6720
+2024-12-25,Chocolate Amargo,Premium,15,7,148,2220,1036,1184
+2024-12-26,Trufa,Premium,8,3,124,992,372,620
+2024-12-26,Barra 100g,Tradicional,12,5,186,2232,930,1302
+2024-12-26,Caixa de Bombom,Presente,35,18,98,3430,1764,1666
+2024-12-26,Ovo de Páscoa,Sazonal,80,40,72,5760,2880,2880
+2024-12-26,Chocolate Amargo,Premium,15,7,90,1350,630,720
+2024-12-27,Trufa,Premium,8,3,54,432,162,270
+2024-12-27,Barra 100g,Tradicional,12,5,132,1584,660,924
+2024-12-27,Caixa de Bombom,Presente,35,18,190,6650,3420,3230
+2024-12-27,Ovo de Páscoa,Sazonal,80,40,182,14560,7280,7280
+2024-12-27,Chocolate Amargo,Premium,15,7,130,1950,910,1040
+2024-12-28,Trufa,Premium,8,3,174,1392,522,870
+2024-12-28,Barra 100g,Tradicional,12,5,104,1248,520,728
+2024-12-28,Caixa de Bombom,Presente,35,18,40,1400,720,680
+2024-12-28,Ovo de Páscoa,Sazonal,80,40,76,6080,3040,3040
+2024-12-28,Chocolate Amargo,Premium,15,7,100,1500,700,800
+2024-12-29,Trufa,Premium,8,3,198,1584,594,990
+2024-12-29,Barra 100g,Tradicional,12,5,66,792,330,462
+2024-12-29,Caixa de Bombom,Presente,35,18,144,5040,2592,2448
+2024-12-29,Ovo de Páscoa,Sazonal,80,40,134,10720,5360,5360
+2024-12-29,Chocolate Amargo,Premium,15,7,176,2640,1232,1408
+2024-12-30,Trufa,Premium,8,3,162,1296,486,810
+2024-12-30,Barra 100g,Tradicional,12,5,170,2040,850,1190
+2024-12-30,Caixa de Bombom,Presente,35,18,166,5810,2988,2822
+2024-12-30,Ovo de Páscoa,Sazonal,80,40,178,14240,7120,7120
+2024-12-30,Chocolate Amargo,Premium,15,7,164,2460,1148,1312
+2024-12-31,Trufa,Premium,8,3,184,1472,552,920
+2024-12-31,Barra 100g,Tradicional,12,5,104,1248,520,728
+2024-12-31,Caixa de Bombom,Presente,35,18,120,4200,2160,2040
+2024-12-31,Ovo de Páscoa,Sazonal,80,40,134,10720,5360,5360
+2024-12-31,Chocolate Amargo,Premium,15,7,64,960,448,512
