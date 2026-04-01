@@ -1,6 +1,6 @@
-# 🍫 Dashboard de Faturamento - Dolce Cacau
+# 🍫 Dashboard de Faturamento | Dolce Cacau
 
-Dashboard interativo desenvolvido com **Streamlit** para análise de faturamento, lucro e desempenho de vendas, simulando um cenário real de negócio.
+Dashboard interativo desenvolvido com **Streamlit** para análise de faturamento, lucro e desempenho de vendas, simulando um cenário real de negócio com foco em geração de insights.
 
 ---
 
@@ -28,7 +28,7 @@ Dashboard interativo desenvolvido com **Streamlit** para análise de faturamento
 
 ## 📈 Principais Insights
 
-- Identificação dos produtos mais lucrativos  
+- Identificação dos produtos com maior contribuição para o lucro   
 - Impacto da sazonalidade (Páscoa e Natal)  
 - Evolução do faturamento ao longo do tempo  
 - Relação entre faturamento e margem  
@@ -40,6 +40,7 @@ Dashboard interativo desenvolvido com **Streamlit** para análise de faturamento
 ![Dashboard](assets/dashboard.png)
 
 ---
+
 ## 📂 Estrutura do projeto
 
 ```
