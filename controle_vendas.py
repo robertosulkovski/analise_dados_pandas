@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
-import base64
+import os
 
 # ⚙️ CONFIG
 st.set_page_config(
@@ -13,7 +13,6 @@ st.set_page_config(
 # -------------------------
 # FUNÇÕES
 # -------------------------
-import os
 
 @st.cache_data
 def carregar_dados():
@@ -21,7 +20,7 @@ def carregar_dados():
     caminho_dados = os.path.join(BASE_DIR, "data", "vendas.csv")
 
     df = pd.read_csv(caminho_dados)
-    df['data'] = pd.to_datetime(df['data'])
+    df['data'] = pd.to_datetime(df['data'], errors='coerce')
     return df
 
 def converter_csv(df):
@@ -41,10 +40,6 @@ def calcular_kpis(df):
     margem = (lucro / faturamento) * 100 if faturamento != 0 else 0
     return faturamento, lucro, margem
 
-def carregar_imagem_base64(caminho):
-    with open(caminho, "rb") as f:
-        return base64.b64encode(f.read()).decode()
-
 # -------------------------
 # DADOS
 # -------------------------
@@ -60,7 +55,6 @@ META_LUCRO = 1_439_000
 # -------------------------
 # SIDEBAR (LOGO + FILTROS)
 # -------------------------
-import os
 
 BASE_DIR = os.path.dirname(__file__)
 caminho_logo = os.path.join(BASE_DIR, "assets", "logo.png")
@@ -305,6 +299,7 @@ fig_bar.update_yaxes(tickprefix="R$ ")
 with st.expander("📊 Gráfico Faturamento por mês", expanded=False):
     st.plotly_chart(fig_bar, use_container_width=True)
 
+##
 # -------------------------
 # TABELA DETALHADA
 # -------------------------
@@ -320,13 +315,10 @@ if not df_filtrado.empty:
 
     with st.expander("📊 Tabela Controle de Faturamento", expanded=False):
 
-            expander = st.expander("🔎 Ajustar filtros da tabela", expanded=False)
-
-
-            filtro_produto = st.multiselect(
-                "Produto",
-                df_exibir['produto'].unique()
-            )
+        filtro_produto = st.multiselect(
+            "Produto",
+            df_exibir['produto'].unique()
+        )
 
         df_tabela = df_exibir.copy()
 
@@ -338,7 +330,6 @@ if not df_filtrado.empty:
 else:
     st.warning("Nenhum dado encontrado para esse filtro")
 
-#
 # -------------------------
 # RESUMO MENSAL
 # -------------------------
