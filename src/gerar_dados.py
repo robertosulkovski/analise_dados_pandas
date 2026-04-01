@@ -44,6 +44,8 @@ df["faturamento"] = df["preco"] * df["quantidade"]
 df["custo_total"] = df["custo"] * df["quantidade"]
 df["lucro"] = df["faturamento"] - df["custo_total"]
 
+df.insert(0, 'nota_fiscal', ['NF' + str(i).zfill(5) for i in range(1, len(df)+1)])
+
 df.to_csv("data/vendas.csv", index=False)
 
 print("Dataset gerado com sucesso!")
