@@ -40,25 +40,26 @@ Dashboard interativo desenvolvido com **Streamlit** para análise de faturamento
 ![Dashboard](assets/dashboard.png)
 
 ---
-
 ## 📂 Estrutura do projeto
 
+```
 ANALISE_DADOS_PANDAS/
 │
 ├── assets/
-│ └── logo.png
+│   └── logo.png
 │
 ├── data/
-│ └── vendas.csv
+│   └── vendas.csv
 │
 ├── notebooks/
-│ └── analise_vendas.ipynb
+│   └── analise_vendas.ipynb
 │
 ├── src/
-│ └── gerar_dados.py
+│   └── gerar_dados.py
 │
 ├── .gitignore
 ├── LICENSE
 ├── README.md
 ├── controle_vendas.py
 └── requirements.txt
+```
