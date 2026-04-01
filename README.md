@@ -1,41 +1,63 @@
-# 📊 Análise de Vendas - Loja de Chocolates
+# 🍫 Dashboard de Faturamento - Dolce Cacau
 
-## 📌 Sobre o Projeto
-
-Este projeto tem como objetivo analisar o desempenho de vendas de uma empresa fictícia do setor de chocolates, utilizando Python e técnicas de análise de dados.
-
-O dataset foi construído para simular um cenário real de negócio, incluindo variáveis como faturamento, custo, lucro e sazonalidade ao longo do ano.
+Dashboard interativo desenvolvido com **Streamlit** para análise de faturamento, lucro e desempenho de vendas, simulando um cenário real de negócio.
 
 ---
 
-## 🎯 Objetivo
+## 📊 Funcionalidades
 
-Identificar padrões e gerar insights estratégicos a partir dos dados, com foco em:
-
-- Performance de vendas ao longo do tempo  
-- Produtos mais lucrativos  
-- Impacto da sazonalidade (Páscoa e Natal)  
-- Relação entre faturamento e margem  
+- 📅 Filtro por período (rápido + personalizado)
+- 📦 Filtro por produto e categoria
+- 💰 KPIs principais (Faturamento e Lucro)
+- 📈 Evolução do faturamento ao longo do tempo
+- 📊 Resumo mensal
+- 🧠 Insight automático (produto mais lucrativo)
+- 📥 Exportação de dados filtrados
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 
-- Python  
-- Pandas  
-- Matplotlib  
-- Jupyter Notebook  
+- **Python** → linguagem principal para análise de dados  
+- **Pandas** → manipulação e transformação de dados  
+- **Plotly** → criação de gráficos interativos  
+- **Streamlit** → desenvolvimento do dashboard interativo  
+- **Jupyter Notebook** → análise exploratória de dados (EDA)  
 
 ---
 
-## 📂 Estrutura do Projeto
+## 📈 Principais Insights
 
-```bash
-analise_dados_pandas/
+- Identificação dos produtos mais lucrativos  
+- Impacto da sazonalidade (Páscoa e Natal)  
+- Evolução do faturamento ao longo do tempo  
+- Relação entre faturamento e margem  
+
+---
+
+## 🖼️ Preview
+
+![Dashboard](assets/dashboard.png)
+
+---
+
+## 📂 Estrutura do projeto
+ANALISE_DADOS_PANDAS/
 │
-├── data/              # Dataset de vendas
-├── notebooks/        # Análises exploratórias
-├── src/              # Scripts (geração de dados)
-├── main.py           # Análises em script
-├── requirements.txt  # Dependências
-└── README.md
+├── data/
+│ └── vendas.csv
+│
+├── assets/
+│ └── logo.png
+│
+├── notebooks/
+│ └── analise_vendas.ipynb
+│
+├── src/
+│ └── gerar_dados.py
+│
+├── dashboard.py
+├── requirements.txt
+├── README.md
+├── LICENSE
+└── .gitignore
