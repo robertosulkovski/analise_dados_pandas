@@ -68,7 +68,7 @@ caminho_logo = os.path.join(BASE_DIR, "assets", "logo.png")
 col1, col2, col3 = st.sidebar.columns([1,4,1])
 
 with col2:
-    st.image(caminho_logo, use_container_width=True)
+    st.image(caminho_logo, width=160)
 
 
 
