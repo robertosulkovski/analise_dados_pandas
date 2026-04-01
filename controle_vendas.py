@@ -320,7 +320,8 @@ if not df_filtrado.empty:
 
     with st.expander("📊 Tabela Controle de Faturamento", expanded=False):
 
-        with st.expander("🔎 Ajustar filtros da tabela", expanded=False):
+            expander = st.expander("🔎 Ajustar filtros da tabela", expanded=False)
+
 
             filtro_produto = st.multiselect(
                 "Produto",
