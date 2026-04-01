@@ -58,7 +58,7 @@ ANALISE_DADOS_PANDAS/
 ├── src/
 │   └── gerar_dados.py
 │
-├── dashboard.py
+├── controle_vendas.py
 ├── requirements.txt
 ├── README.md
 ├── LICENSE
