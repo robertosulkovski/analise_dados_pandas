@@ -4,6 +4,10 @@ Dashboard interativo desenvolvido com **Streamlit** para análise de faturamento
 
 ---
 
+## 🌐 Acesse o Dashboard
+
+👉 https://oaksljnqmdxeboh6k9ufkv.streamlit.app/
+
 ## 📊 Funcionalidades
 
 - 📅 Filtro por período (rápido + personalizado)

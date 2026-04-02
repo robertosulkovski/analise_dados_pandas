@@ -168,34 +168,30 @@ if busca:
 # PERFORMANCE CONSOLIDADA
 # -------------------------
 faturamento, lucro, margem = calcular_kpis(df_filtrado)
+
 with st.expander("🎯 Performance Consolidada", expanded=True):
 
-    col1, col2 = st.columns(2)
+    col1, col2, col3 = st.columns(3)
 
-    # FATURAMENTO
     perc_fat = (faturamento / META_FATURAMENTO) * 100 if META_FATURAMENTO != 0 else 0
+    perc_lucro = (lucro / META_LUCRO) * 100 if META_LUCRO != 0 else 0
 
     col1.metric(
         "💰 Faturamento",
         formato_brl(faturamento),
-        delta=f"{perc_fat:.2f}% da meta",
-        delta_color="normal"
+        delta=f"{perc_fat:.2f}% da meta"
     )
-
-    col1.caption(f"🎯 Meta: {formato_brl(META_FATURAMENTO)}")
-
-    # LUCRO
-    perc_lucro = (lucro / META_LUCRO) * 100 if META_LUCRO != 0 else 0
 
     col2.metric(
         "🧾 Lucro",
         formato_brl(lucro),
-        delta=f"{perc_lucro:.2f}% da meta",
-        delta_color="normal"
+        delta=f"{perc_lucro:.2f}% da meta"
     )
 
-    col2.caption(f"🎯 Meta: {formato_brl(META_LUCRO)}")
-
+    col3.metric(
+        "📊 Margem",
+        f"{margem:.2f}%"
+    )
 # -------------------------
 # BASE PARA ANÁLISES
 # -------------------------
